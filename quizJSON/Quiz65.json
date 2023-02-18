@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "In 2017 which Space Agency sends 104 satellites in a single mission?",
+    "options": ["ISRO", "NASA", "Russian Agency", "China space Agency"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "During World War II, when did Germany attack France?",
+    "options": ["1948", "1940", "1945", "1944"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The famous Rock Garden is located in which city?",
+    "options": ["Jaipur", "Lucknow", "Simla", "Chandigarh"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Niagara Falls are in",
+    "options": ["Australia", "U.S.A", "U.K.", "South Africa"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "If you ordered bratwurst in Germany, you’d be asking for what kind of food?",
+    "options": ["Fruit", "Cake", "Sausage", "Pretzel"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "D.D.T. was invented by ?",
+    "options": ["Dalton", "Mosley", "Rudeolf", "Karl Benz"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following personalities is known as the father of economics?",
+    "options": [
+      "Adam Smith",
+      "Abraham Maslow",
+      "J.K. Galbraith",
+      "J.M. Keynes"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "When was Goa Shipyard Limited (GSL) established?",
+    "options": ["1945", "1968", "1957", "1958"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is the capital of Ethiopia?",
+    "options": ["Abuja", "Addis Ababa", "Harare", "Dar es Salaam"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the fear of laughter called?",
+    "options": ["Geliophobia", "Haphobia", "Siliophobia", "Gigglephobia"],
+    "answer_index": 1
+  }
+]

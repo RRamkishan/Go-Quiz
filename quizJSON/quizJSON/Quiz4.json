@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "In which country, Yellowstone National Park is located",
+    "options": ["USA", "Brazil", "Canada", "Russia"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which river is passing through the Paris City",
+    "options": ["Volga", "Seine", "Thames", "Nile"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "In which country the tallest waterfall of the world is located",
+    "options": ["South Africa", "Venezuela", "Norway", "Peru"],
+    "answer_index": 2
+  },
+  {
+    "id": 4,
+    "question": "Emu bird is found in the country",
+    "options": ["Japan", "New Zealand", "Australia", "Thailand"],
+    "answer_index": 3
+  },
+  {
+    "id": 5,
+    "question": "Which country has the highest number of time zones",
+    "options": ["England", "France", "Russia", "China"],
+    "answer_index": 2
+  },
+  {
+    "id": 6,
+    "question": "Which country has the most number of lakes",
+    "options": ["Canada", "USA", "Finland", "Brazil"],
+    "answer_index": 1
+  },
+  {
+    "id": 7,
+    "question": "Which one is the capital of Spain",
+    "options": ["Lisbon", "Barcelona", "Madrid", "Seville"],
+    "answer_index": 3
+  },
+  {
+    "id": 8,
+    "question": "Only continent in the world without a desert is",
+    "options": ["North America", "Europe", "Africa", "Asia"],
+    "answer_index": 2
+  },
+  {
+    "id": 9,
+    "question": "Which one is the tallest tower in the world",
+    "options": [
+      "KL Tower, Malaysia",
+      "Tokyo Skytree, Japan",
+      "Burj Khalifa UAE",
+      "Canton Tower, China"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 10,
+    "question": "What is the deepest river in the UK?",
+    "options": ["The Thames", "River Severn", "River Trent", "Gloucestershire"],
+    "answer_index": 1
+  }
+]

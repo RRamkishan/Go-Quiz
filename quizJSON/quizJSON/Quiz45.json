@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "On what continent can you find wild gorillas, chimpanzees, and bonobos?",
+    "options": ["Africa", "Asia", "Austrila", "North America"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the National Sport of China?",
+    "options": ["UNCTAD", "Table Tennis", "Kong Fu", "Cricket"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "About how much of an orangutan’s genetic makeup is shared with humans?",
+    "options": ["95 percent", "45percent", "79 percent", "97 percent"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What is a pumpkin?",
+    "options": ["Mineral", "Fruits", "Vegetables", "Animals"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What year were bonobos officially recognized as a species?",
+    "options": ["2008", "1845", "1929", "1729"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In witch of the following countries would you DONT find a wild jaguar?",
+    "options": ["Mexico", "chile", "colombia", "Brazil"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "For about how many years can an orangutan live in the wild?",
+    "options": ["40years", "100years", "78years", "65years"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Pong was one of the first video games. What sport was the game based on?",
+    "options": ["Skiing", "Soccer", "Tennis", "Golf"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Whats the most commonly broken bone in the human body?",
+    "options": ["Pinky finger", "Collarbone", "Leg", "Big toe"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of the following metals remain in liquid for under normal conditions?",
+    "options": ["Mercury", "Uranium", "Zinc", "Radium"],
+    "answer_index": 1
+  }
+]

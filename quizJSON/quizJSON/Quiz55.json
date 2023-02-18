@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which of these dogs is considered to be among the biggest?",
+    "options": ["Great Danes", "Poodless", "Dachshunds", "Golden retrievers"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which metal pollute the air of a big city?",
+    "options": ["Copper", "Lead", "Cadmium", "Chromium"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which city is known as City of blood?",
+    "options": ["Yavatmal", "Jaisalmar", "Jodhpur", "Tezpur"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What is the nickname for the clock at the Palace of Westminster in London?",
+    "options": ["Parliament", "Big Ben", "Great bell", "Bridge"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What is the largest continent?",
+    "options": ["North America", "Africa", "Asia", "Europe"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "What kind of tree do prunes come from?",
+    "options": [
+      "Nutrition facts",
+      "A plum tree",
+      "A dried plumns",
+      "Pear trees"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which is the most venomous frog in the world?",
+    "options": [
+      "The golden poison frog",
+      "The blue poison dart frog",
+      "The vampire flying frog",
+      "Kermit the Frog"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the hardest natural substance?",
+    "options": ["A Copper", "A silver", "A diamond", "A gold"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The Forbidden City is located in which country?",
+    "options": ["Mongolia", "China", "Bhutan", "Nepal"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of the following has no Skeleton at all?",
+    "options": ["Jelly fish", "Silver fish", "Sponge", "Star fish"],
+    "answer_index": 1
+  }
+]

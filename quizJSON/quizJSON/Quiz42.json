@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is the name Pierre Cardin associated with?",
+    "options": ["Fashion Designing", "Music", "Sports", "Painting"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "How many teeth can a shark lose in its lifetime?",
+    "options": ["12000", "30000", "23000", "4000"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The first tourist to International Space Station paid how much for an​ ​eight-day trip?",
+    "options": ["$5 million", "$1 million", "$100 million", "$20 million"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "On an average day, about how much dung does an elephant produce?",
+    "options": ["25pounds", "100Pounds", "10pounds", "1,000pounds"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is the lightest metal?",
+    "options": ["Mercury", "Silver", "Lithium", "Lead"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Where does the word “volcano” come from?",
+    "options": ["Italian for\"angry\"", "The god Vulcan", "Volume", "StarTrek"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the capital of Finland?",
+    "options": ["Helsinki", "Conakry", "Prague", "Tokyo"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Who is considered to be the Father of modern genetics?",
+    "options": [
+      "Charles Darwin",
+      "Alexander Fleming",
+      "Gregor Mendel",
+      "Otto Hahn"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which among the following have a mixed heart?",
+    "options": ["Fishes", "Reptiles", "Nematodes", "Birds"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which animal guards our house?",
+    "options": ["Dog", "Cat", "Cow", "Monkey"],
+    "answer_index": 1
+  }
+]

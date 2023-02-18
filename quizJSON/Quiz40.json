@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Hows this cat feeling?",
+    "options": ["Angry", "Playful", "Hungry", "Enjoy"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Male honeybees, or drones, don’t have which of the following?",
+    "options": ["Sense of humor", "Stinger", "Stomach", "Antennae"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "When big cats are babies, what are they called?",
+    "options": ["Pups", "Chicks", "Foals", "Cubs"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which of the following animals has not made the journey into space?",
+    "options": ["Guinea pig", "Iguana", "Tree frog", "chimpanzee"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "The Court language of the Mughals was",
+    "options": ["Hindiv", "Arabic", "Persian", "Urdu"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which of the following originated in Spain?",
+    "options": ["Toilet paper", "Acoustic guitar", "Battery", "Parachute"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following countries does not have a high-speed train?",
+    "options": ["Brazil", "Germany", "Italy", "China"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Bat-eared foxes eat all of the following, but which consists of up to 80 percent of their diet?",
+    "options": ["Small birds", "Reptiles", "Insects", "Berries"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which country is called Queen of sea?",
+    "options": ["Oman", "France", "London", "Yamen"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "How many tornadoes occurred in the United States in April 2011, setting a record for the most active tornado month in the country?",
+    "options": ["758", "520", "103", "56"],
+    "answer_index": 1
+  }
+]

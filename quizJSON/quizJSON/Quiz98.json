@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "question": "What does FII stands for?",
+    "options": [
+      "Foreign Institutional Investor",
+      "France Institutional Investor",
+      "Foreign Indirect Investment",
+      "Forestry Innovation Investment"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "A bearer cheque can also be called as",
+    "options": [
+      "Order cheque",
+      "Open cheque",
+      "Crossed cheque",
+      "Closed cheque"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Press Freedom Day is observed on",
+    "options": ["1st May", "21st May", "31st May", "3rd May"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "A banking account cannot be open in the case of",
+    "options": [
+      "Minors",
+      "Undischarged insolvent",
+      "Physically handicapped person",
+      "Illiterates"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "An account is classified as inoperative when no transactions are made during last",
+    "options": ["1 year", "4 months", "2 years", "6 months"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Who is primarily liable on a promissory note?",
+    "options": ["Holder", "Maker", "Drawee", "Endorser"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "How many days a written cheque is valid?",
+    "options": ["3 months", "6 months", "12 months", "9 months"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which one of the following options  is not a money market instrument?",
+    "options": [
+      "Treasury Bills",
+      "Commercial Paper",
+      "Equity Share",
+      "Certificate of Deposit"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The headquarters of Asian Development Bank is",
+    "options": [
+      "Vienna, Austria",
+      "Manila, Philippines",
+      "Shanghai, China",
+      "Beijing, China"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The biggest international financial centre in the world",
+    "options": ["London", "New York", "Geneva", "Frankfurt"],
+    "answer_index": 1
+  }
+]

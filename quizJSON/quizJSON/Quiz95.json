@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Food wrapped in newspaper is likely to get contaminated with",
+    "options": ["Lead", "Aluminium", "Magnesium", "Iron"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which one of the following is a skin disease?",
+    "options": ["Anaemia", "Pellagra", "Osteomalacia", "Rickets"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which acid is produced when milk gets sour?",
+    "options": ["Acetic acid", "Tartaric acid", "Butyric acid", "Lactic acid"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which one among the following produces seeds but not flowers?",
+    "options": ["Pine", "Groundnut", "Coffee", "Cashew nut"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Main function of Liver is production of....?",
+    "options": ["Urea", "Mucus", "Lipase", "Hydrochloric acid"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "The tallest living tree is",
+    "options": ["Eucalyptus", "Sequoia", "Palm tree", "Tree fern"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Pollination of birds is known as",
+    "options": ["Ornithophily", "Entomophily", "Embryophily", "Hydrophily"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Peristomes are present in",
+    "options": ["Chara", "Pencillius", "Polytrichum", "Adiantum"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Pulses contain large amount of",
+    "options": ["Fats", "Proteins", "Carbo hydrate", "Water"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "WWhat is Laughing gas",
+    "options": ["Nitrous Oxide", "Carbon Monoxide", "Carbon Tetrachloride", "carbondioxide"],
+    "answer_index": 1
+  }
+]

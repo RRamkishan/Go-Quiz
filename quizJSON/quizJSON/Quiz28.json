@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "During which war was Franklin Pierce wounded?",
+    "options": ["Mexican War", "Balkan War I", "Cuban War", "Boer War"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which of the following Acts was passed when Franklin Pierce was President?",
+    "options": [
+      "Espionage Act",
+      "Kansas-Nebraka Act",
+      "Freedom of Information Privacy Act",
+      "National Security Act"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "To which political party did Franklin Pierce belong?",
+    "options": ["Republican", "Whig", "Green", "Democratic"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What caused Franklin Pierce’s death?",
+    "options": ["Train accident", "Cirrhosis", "Bus accident", "Cholera"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Who won the Rugby World Cup 2007?",
+    "options": ["South Africa", "England", "France", "Australia"],
+    "answer_index": 1
+  },
+  {
+    "id": 6,
+    "question": "Who became the President of South Africa in 1994?",
+    "options": [
+      "John Smuts",
+      "Nelson Mandela",
+      "Jomo Kenyatta",
+      "Walter Sisulu"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which country is surrounded on all sides by South Africa?",
+    "options": ["Lesotho", "Namibia", "Swaziland", "Angola"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Who lead the Test cricket team in the series against Australia in 1970?",
+    "options": [
+      "Peter Pollock",
+      "Mike Procter",
+      "Ali Bacher",
+      "Barry Richards"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Gary Player is famous for which sport?",
+    "options": ["Football", "Golf", "Chess", "Cricket"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Who first performed heart transplantation?",
+    "options": [
+      "Christian Barnard",
+      "Dorothy Fisher",
+      "Denise Darvall",
+      "Philip Blaiberg"
+    ],
+    "answer_index": 1
+  }
+]

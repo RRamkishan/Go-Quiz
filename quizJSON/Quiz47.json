@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "The concept of Lokpal was taken from",
+    "options": ["Sweden", "France", "America", "Britain"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which of the following items is about the same size as a blue whale’s heart?",
+    "options": ["A peanut", "A small car", "A blimp", "A bowling ball"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What celebrity was Yoda from the Star Wars movies designed to look like?",
+    "options": [
+      "Harry styles",
+      "Donald Duck",
+      "Elvis presley",
+      "Albert Einstein"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Where is the coldest place on Earth?",
+    "options": ["North pole", "Antarctica", "Iceland", "Your refrigerator"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Mars is the ____ planet from the sun.",
+    "options": ["Third", "Second", "Fourth", "sixth"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which of the following foods does not support bacterial growth?",
+    "options": ["Cooked rice", "Raw carrots", "Sauted onions", "Refried beans"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the Italian word for pie?",
+    "options": ["Pizza", "Ball", "Milk", "Water"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What’s the response to “see you later, alligator?”",
+    "options": [
+      "Kangaroo",
+      "Butterfly",
+      "In a while, crocodile.",
+      "Teddy bear"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Name of the city in the world known as ‘Big Apple’?",
+    "options": ["Yuganda", "New York", "Sweden", "Kanada"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What animal does the president traditionally pardon each Thanksgiving?",
+    "options": ["A turkey", "A dog", "A goose", "A pig"],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which of them will come in the middle if all of them are arranged alphabetically as in a dictionary?",
+    "options": ["Assessment", "Assistant", "Asterisk", "Ass"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "An amount doubles itself in 5 years with simple interest. What is the rate of interest per year?",
+    "options": ["0.25", "0.2", "0.35", "0.36"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which of these is a SI unit of pressure and also the name of a computer language",
+    "options": ["Watt", "Ohm", "Weber", "Pascal"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Recently, who has won the title of Mens Singles in US Open 2020?",
+    "options": ["Roger Federer", "Dominic Theme", "Jimmy Connors", "Alexander Zverev"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Maldives has signed a defense cooperation agreement with which country for peace in the Indo-Pacific region?",
+    "options": ["Japan", "China", "America", "India"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "How much do astronauts “grow” in space?",
+    "options": ["They dot't grow", "One to two inches", "About six inches", "About a foot"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of these fishy fathers carries eggs in his mouth for two months?",
+    "options": ["Hardhead catfish", "koi", "Rainbow trout", "Beluga sturgeon"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which actor was chosen as the Celebrity Advocate of UNICEFs Child Rights Campaign?",
+    "options": ["Sonu Sood", "Aamir Khan", "Ayushman Khurana", "Salman Khan"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Country that was called as Land of Rising Sun ?",
+    "options": ["Holland", "Japan", "Russia", "Korea"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Reykjavik is the capital of which country?",
+    "options": ["Iceland", "Ireland", "Jordan", "Jamaica"],
+    "answer_index": 1
+  }
+]

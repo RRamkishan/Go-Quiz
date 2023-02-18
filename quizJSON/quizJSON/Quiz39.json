@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "In what country were the Olympic Games invented?",
+    "options": ["Greece", "Rio de Janeiro", "Pyeongchang", "Tokyo"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What body part does a butterfly use to taste its food?",
+    "options": ["Abdomen", "Feet", "Wings", "Antennae"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What is a perfect score in a game of bowling?",
+    "options": ["10", "100", "500", "400"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "How many players make up an official indoor volleyball team?",
+    "options": ["8", "6", "7", "5"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Ancient humans used which kind of rock to make arrowheads and other sharp weapons?",
+    "options": ["Soapstone", "Marble", "Flint", "Granite"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "which of the following organism does the female kills the male after copulation",
+    "options": ["Dragonfly", "Honeybee", "Pit viper", "Spider"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "About how many active volcanoes are there on Earth?",
+    "options": ["1600", "600", "100", "1200"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What ice-cream flavor has been the most popular in the USA for more than 200 years?",
+    "options": ["Cherry Garcia", "Strawberry", "Vanilla", "Chocolate"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Borobudur Temple in Magelang is located in which country?",
+    "options": ["Singapore", "Indonesia", "Iran", "Laos"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of these animals is not a marsupial?",
+    "options": ["Platypus", "Koala", "Tasmanian devil", "pademelon"],
+    "answer_index": 1
+  }
+]

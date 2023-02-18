@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What is the hottest continent on Earth?",
+    "options": ["Africa", "Asia", "Australia", "Europe"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the longest river in the world?",
+    "options": ["Amur River", "River Nile", "Amazon River", "Congo River"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What are the five colours of the Olympic rings?",
+    "options": [
+      "Blue, yellow, black, green and Brown",
+      "Blue, yellow, black, green and Orange",
+      "Blue, yellow, black, green and skyblue",
+      "Blue, yellow, black, green and red"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Who won the FIFA Women's World Cup in 2019?",
+    "options": ["Australia", "USA", "Us ", "Singapore"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "How many world titles has Phil Talyor won in darts?",
+    "options": ["16", "15", "14", "13"],
+    "answer_index": 1
+  },
+  {
+    "id": 6,
+    "question": "what piece of fruit is found at the top of the men's Wimbledon trophy?",
+    "options": ["Mango", "Pineapple", "Apple", "Orange"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "When did China get back Hong Kong?",
+    "options": ["1997", "1998", "1999", "2000"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which city was known as Peking?",
+    "options": ["Guangzhou", "Xian", "Beijing", "Shanghai"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What is the meaning of Tiananmen?",
+    "options": ["Glacier", "Heavenly gate", "Desert", "Beautiful River"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the official name of China?",
+    "options": [
+      "People’s Republic of China",
+      "Republic of China",
+      "Kingdom of China",
+      "china"
+    ],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Bacteria grow on your feet. What do they eat to survive?",
+    "options": ["Your sweat", "Fleas", "Pizza", "Your toenails"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which of these cats does not have spots?",
+    "options": ["Leopards", "Lions", "Jaguars", "Cheetah"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which of the following metals forms an amalgam with other metals?",
+    "options": ["zinc", "Lead", "Tin", "Mercury"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The hardest substance available on earth is",
+    "options": ["Gold", "Diamond", "Platinum", "Iron"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What is most frequently found in beach cleanups?",
+    "options": ["Jewelry", "Shoes", "Pieces of Plastic", "Glass"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Oval stadium in England is associated with",
+    "options": ["polo", "Cricket", "Football", "Hockey"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "On which date the ’World Sports Journalists Day’ is celebrated?",
+    "options": ["July 2nd", "June 1st", "August 15th", "November 30th"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What do geckos do with the skin they shed?",
+    "options": ["Use it as a blanket", "Clean it", "Eat it", "Bury it"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of the following instruments is used to measure Soil Water Tension?",
+    "options": ["Photometer", "Tensiometer", "Psychrometer", "Pyrometer"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The deep-fried Mars bar was created in what country?",
+    "options": ["Scotland", "Kenya", "United states", "Spain"],
+    "answer_index": 1
+  }
+]

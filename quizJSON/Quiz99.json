@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "Which among the following is the World's largest Wetland System?",
+    "options": [
+      "Pantanal (South America)",
+      "Okavango (Botswana)",
+      "Everglades (USA)",
+      "Camargue (France)"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The disease 'Itai Itai' is caused by;",
+    "options": ["Manganize", "Cadmium", "Carbon", "None of these."],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which company becomes first to hit $800 billion market valuation?",
+    "options": ["Blackberry", "Sony", "IBM", "Apple"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The first country launching GST was -",
+    "options": ["Japan", "France", "USA", "Britain"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What is the cost of credit expressed as a percentage on a yearly basis called?",
+    "options": ["WPI", "WPI", "APR", "APY"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In which type of banking, electronic financial transactions are done?",
+    "options": [
+      "Internet Banking",
+      "E-Banking",
+      "M-Banking",
+      "Universal Banking"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which Airways becomes the World's First Airline to launch Double beds in Business Class?",
+    "options": [
+      "Qatar Airways",
+      "Singapore Airlines",
+      "ANA All Nippon Airways",
+      "Etihad Airways"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which firm buys engineering and design teams for $1.1 billion deal from HTC?",
+    "options": ["TCS", "Infosys", "Google", "IBM"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which two country test-fired a hypersonic missile HIFiRE?",
+    "options": [
+      "US and Japan",
+      "US and Australia",
+      "Australia and Japan",
+      "India and Australia"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which country's Navy tested the world's first-ever active Laser Weapons System (LaWS) recently?",
+    "options": ["US", "Japan", "UK", "Germany"],
+    "answer_index": 1
+  }
+]

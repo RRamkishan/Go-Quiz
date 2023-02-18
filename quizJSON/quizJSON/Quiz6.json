@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "The World Bank is founded in the year",
+    "options": ["1944", "1944", "1946", "1947"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which city is known as the 'City of Two Continents'",
+    "options": ["Moscow", "Istanbul", "Abu Dhabi", "Sao Paulo"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which country is the Valley of the Kings located?",
+    "options": ["Libya", "Cario", "South Arabia", "Egypt"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which country has the World's largest prison population",
+    "options": ["Egypt", "Iraq", "Iran", "Uthopia"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "The historic city of 'Machu Picchu' is located in the country",
+    "options": ["Asia", "Europe", "South America", "Kenya"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "The Maasai Mara National Reserve is in the country",
+    "options": ["Tanzania", "Kenya", "South Africa", "Botswana"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Cadbury chocolate was first founded in the city",
+    "options": ["Birmingham", "Paris", "Zurich", "London"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "The headquarters of Mercedes-Benz is located in",
+    "options": ["Berlin", "London", "Stuttgart", "Tokyo"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Las Vegas city is located in the US state of",
+    "options": ["Texas", "Nevada", "Arizona", "Colorado"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which one is the largest state by area wise in US",
+    "options": ["Alaska", "Kansas", "Colorado", "Ohio"],
+    "answer_index": 1
+  }
+]

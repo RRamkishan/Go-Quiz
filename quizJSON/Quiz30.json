@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the official language of Guyana?",
+    "options": ["English", "French", "Portuguese", "Spanish"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which is the largest island of Italy?",
+    "options": ["Sardinia", "Sicily", "Elba", "Crete"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which is Italy’s main river?",
+    "options": ["Arno", "Rhine", "Tiber", "Po"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Who was proclaimed the King of Italy in 1861?",
+    "options": ["Chalemagene", "Victor Emmanuel II", "Clovis", "Pepin"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "When were Papal States annexed?",
+    "options": ["1870", "1871", "1872", "1875"],
+    "answer_index": 1
+  },
+  {
+    "id": 6,
+    "question": "Who is the last Italian Pope?",
+    "options": ["Benedict XV", "John Paul I", "Adrian VI", "Pius XII"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which islands were ceded to Greece by Italy after World War II?",
+    "options": ["Dodecanese", "Cocos", "Azores", "Balearic"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Who succeeded Silvio Berlusconi as Prime Minister of Italy in 2006?",
+    "options": [
+      "Giorgio Napolitance",
+      "Giulio Andreotti",
+      "Romano Prodi",
+      "Roberto Baggio"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Where is the leaning tower?",
+    "options": ["Venice", "Pisa", "Genoa", "Milan"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which is the currency of Guyana?",
+    "options": ["Dollar", "Peso", "Real", "Escuda"],
+    "answer_index": 1
+  }
+]

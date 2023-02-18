@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Often used electrical appliances what does the M in rpm Stand for",
+    "options": ["Minutes", "Miniature", "Maximum", "Mist"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What body parts do monkeys have that great apes do not?",
+    "options": ["Knees", "Tails", "Fingers", "Toes"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which one of the following types of laser is used in laser printers?",
+    "options": [
+      "Excimer laser",
+      "Gas laser",
+      "Dye laser",
+      "Semiconductor laser"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "In which country are over 800 indigenous languages spoken, more than in any other country?",
+    "options": ["Chile", "Papua New Guinea", "Norway", "Sudan"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Kinked demand curve is a feature of",
+    "options": ["Monopsony", "Duopoly", "Oligopoly", "Monopoly"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Where is ‘Jeddah Tower’ under construction since 2013?",
+    "options": [
+      "At Peris, France",
+      "At Jeddah, Saudi Arabia",
+      "At London, England",
+      "At Kolkatta, India"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "When ‘William Shakespeare’ was born?",
+    "options": ["1564", "1565", "1566", "1568"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": " Which real-life country is Arendelle loosely based on?",
+    "options": ["The Netherlands", "Denmark", "Norway", "Poland"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of these sports do sisters Venus and Serena Williams play?",
+    "options": ["Base ball", "Tennis", "Golf", "Basket ball"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The worlds largest and deepest rail tunnel Gotthard Base Tunnel is located in which country?",
+    "options": ["Belgium", "Switzerland", "Sweden", "Austria"],
+    "answer_index": 1
+  }
+]

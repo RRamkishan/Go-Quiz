@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Cruel ruler Idi Amin was the president of which country",
+    "options": ["Uganda", "Nigeria", "Kenya", "Congo"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which one is the highest producer of Cocoa bean (used in chocolate) in World",
+    "options": ["Cameroon", "Cote d Ivoire", "Nigeria", "Ghana"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "World's longest bridge 'Danyang–Kunshan Grand Bridge' in China connects Beijing with",
+    "options": ["Guangzhou", "Shanghai", "Xian", "Hong Kong"],
+    "answer_index": 2
+  },
+  {
+    "id": 4,
+    "question": "In which country Serengeti National Park is located",
+    "options": ["Kenya", "Zambia", "Tanzania", "Congo"],
+    "answer_index": 3
+  },
+  {
+    "id": 5,
+    "question": "Which country is the highest producer of wine in the World",
+    "options": ["United State", "France", "Italy", "Portugal"],
+    "answer_index": 2
+  },
+  {
+    "id": 6,
+    "question": "Which one is the only African country which is not included in African Union",
+    "options": ["Morocco", "Ethiopia", "Congo", "South Africa"],
+    "answer_index": 1
+  },
+  {
+    "id": 7,
+    "question": "How many countries are included in African Union",
+    "options": ["56", "58", "54", "55"],
+    "answer_index": 3
+  },
+  {
+    "id": 8,
+    "question": "Who is the first non-European and non-American Secretary-General of UN",
+    "options": [
+      "Kofi Annan",
+      "U Thant",
+      "Ban Ki-moon",
+      "Boutros Boutros-Ghali"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 9,
+    "question": "In which year UNICEF has been awarded with Nobel Peace Prize",
+    "options": ["1966", "1965", "1968", "1970"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "In which city the UNICEF research centre is located",
+    "options": ["Florence", "Liverpool", "Madrid", "New York"],
+    "answer_index": 1
+  }
+]

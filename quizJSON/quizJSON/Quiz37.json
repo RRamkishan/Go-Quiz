@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "What do you get when you boil water?",
+    "options": ["Steam", "Microwave", "Pan", "Heat tranfer"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Whats the maximum amount of time Alaskan wood frogs can survive being frozen?",
+    "options": ["5 hours", "2 months", "15minutes", "1 week"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "When do leaves die?",
+    "options": ["Snow", "Autumn leaf", "The leaf color", "In the fall"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What’s the name of a place you go to see lots of animals?",
+    "options": ["Circus", "The zoo", "Pet shop", "Safari"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "The call of the coqui frog of Puerto Rico is as loud as:",
+    "options": ["Fire works", "A cat's meow", "A lawn mowar", "A doorbell"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "With five World Cup wins, which country has taken home the top soccer prize the most times?",
+    "options": ["Germany", "Brazil", "Australia", "South Africa"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Professional soccer players run about how far during every game?",
+    "options": ["6 Miles", "3 Miles", "500 yards", "1,500 Yards"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is not a search engine?",
+    "options": ["Google", "Yahoo", "Wolfram Alpha", "Baidu"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Ctrl, Shift and Alt are called .......... keys.",
+    "options": ["Adjustment", "Modifier", "Function", "Alphanumeric"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Who among the following has won the Nobel Prize 2017 in Literature?",
+    "options": [
+      "Kazuo Ishiguro",
+      "Barry C. Barish",
+      "Kip S. Thorne",
+      "Richard H Thaler"
+    ],
+    "answer_index": 1
+  }
+]

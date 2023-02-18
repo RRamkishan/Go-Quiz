@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Total number of continents in the World is",
+    "options": ["7", "5", "6", "9"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Total number of oceans in the World is",
+    "options": ["4", "5", "6", "7"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which one is the largest ocean in the World",
+    "options": ["Indian", "Arctic", "Atlantic", "Pacific"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which one is the smallest ocean in the World",
+    "options": ["Atlantic", "Arctic", "Pacific", "Indian"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Dead Sea is located between which two countries",
+    "options": [
+      "UAE and Egypt",
+      "Jordan and Sudan",
+      "Jordan and Israel",
+      "Turkey and UAE"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which country gifted the 'Statue of Liberty' to USA in 1886",
+    "options": ["England", "France", "Canada", "Brazil"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "In which ocean 'Bermuda Triangle' region is located",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which country is also known as 'Land of the Midnight Sun'",
+    "options": ["Greenland", "Iceland", "Norway", "Ireland"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which country is known as the 'playground of Europe'",
+    "options": ["Austria", "Switzerland", "Italy", "Holland"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which country is also known as the 'Land of Rising Sun'",
+    "options": ["Japan", "New Zealand", "Fiji", "China"],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What is apartheid?",
+    "options": [
+      "Racial segregation",
+      "Theocracy",
+      "Military rule",
+      "Peaceful co-existence"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What did the British use against the Boers in the Second Boer War?",
+    "options": ["Missiles", "Concentration camps", "Chlorine", "Tanks"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "When did the British annex the Cape Colony?",
+    "options": ["1810", "1808", "1807", "1806"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Who is the European explorer to reach the southernmost tip of Africa?",
+    "options": [
+      "Vasco da Gama",
+      "Bartholomeu Dias",
+      "Abel Tasman",
+      "Francis Drake"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which ocean is to the west of Mexico?",
+    "options": ["Pacific", "Indian", "Atlantic", "Arctic"],
+    "answer_index": 1
+  },
+  {
+    "id": 6,
+    "question": "Who declared independence in 1810?",
+    "options": [
+      "Francisco Franco",
+      "Miguel Hidalgo",
+      "Antonio Lopez",
+      "Hernanxo Cortez"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which association has Canada, USA and Mexico as its members?",
+    "options": ["NAFTA", "EU", "NATO", "CELAM"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which of the following states of USA was not once part of Mexico?",
+    "options": ["California", "Nevada", "New York", "Texas"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which language is used for official purposes in Mexico?",
+    "options": ["English", "Spanish", "Portuguese", "French"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which country is to the north of Mexico?",
+    "options": ["USA", "Canada", "Nicaragua", "Venezuela"],
+    "answer_index": 1
+  }
+]

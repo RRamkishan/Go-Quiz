@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What does the heart pump?",
+    "options": ["Blood", "Heart", "Lungs", "Brain"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The animal with a hump on its back is _?",
+    "options": ["Elephant", "Camel", "Lion", "Tiger"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "How many bones are there in a newborn baby?",
+    "options": ["302", "299", "295", "300"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "How many players are there in a cricket team?",
+    "options": ["10", "11", "7", "13"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What is the capital of South Korea?",
+    "options": ["Kabul", "Islamabad", "Seoul", "Perish"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Where is ‘Great Bear Lake’ found in the world?",
+    "options": ["North America", "Canada", "Chicago", "Sheboygan"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which is the largest lake in Japan?",
+    "options": ["Biwa", "Kasumigaura", "Saroma", "Nakaumi"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which country is the largest producer of Coffee",
+    "options": ["Indonesia", "Colombia", "Brazil", "Vietnam"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What causes filariasis?",
+    "options": ["Bacteria", "Mosquito", "Protozoa", "Virus"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which is the largest of North Americas Great Lakes?",
+    "options": ["Lake Superior", "Lake Gragantuan", "Lake Scary", "Lake Erie"],
+    "answer_index": 1
+  }
+]

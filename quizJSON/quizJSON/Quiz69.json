@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Who is the king of the jungle?",
+    "options": ["Lion", "Elephant", "Tiger", "Deer"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "If you freeze water, what do you get?",
+    "options": ["liquid", "Ice crystals", "cold water", "Hot water"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "How many bones are there in a newborn baby?",
+    "options": ["298", "305", "295", "300"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The ‘T20 world CUP’ is associated with the game of",
+    "options": ["Foot ball", "Cricket", "hocky", "Badminton"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Telephone was invented by",
+    "options": ["Newton", "Stevenson", "Alexander Graham Bell", "J.L. Baird"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which U.S. astronaut was the first to go on a spacewalk?",
+    "options": ["Neil Armstrong", "Edward white", "John Glenn", "Jim lovell"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the SI unit of Force?",
+    "options": ["Newton", "Pascal", "Ampere", "Kilogram"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the scientific name for washing soda?",
+    "options": [
+      "Calcium bicarbonate",
+      "Calcium carbonate",
+      "Sodium carbonate",
+      "Sodium bicarbonate"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of these is not an Space Craft Apollo's command module name?",
+    "options": ["Casper", "Garfield", "Gumdrop", "Charlie Brown"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which is the first Asian country to orbit Mars?",
+    "options": ["India", "Japan", "china", "Germany"],
+    "answer_index": 1
+  }
+]

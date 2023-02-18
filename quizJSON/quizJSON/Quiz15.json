@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "In which continent, the island country Madagascar is located",
+    "options": ["Africa", "Asia", "Australia", "South America"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Mount Kilimanjaro which is the highest mountain in Africa is located in",
+    "options": ["Congo", "Tanzania", "Egypt", "South Africa"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which one is the largest country by area in the African continent",
+    "options": ["South Africa", "Egypt", "Sudan", "Algeria"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "WWhich country was previously known as the Malagasy Republic",
+    "options": ["Malawi", "Madagascar", "Maldives", "Malaysia"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which one is the largest city of African continent",
+    "options": ["Pretoria", "Cape Town", "Cairo", "Lagos"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which one is the judicial capital of South Africa",
+    "options": ["Pretoria", "Bloemfontein", "Johannesburg", "Cape Town"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Havana is the capital of",
+    "options": ["Cuba", "Brazil", "Argentina", "Canada"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which one is the official language of Canada along with English",
+    "options": ["Germany", "Portuguese", "French", "Spanish"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which one is the largest city of Canada",
+    "options": ["Montreal", "Toronto", "Ottawa", "Quebec"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Lisbon is the capital of",
+    "options": ["Portugal", "Germany", "French", "Canada"],
+    "answer_index": 1
+  }
+]

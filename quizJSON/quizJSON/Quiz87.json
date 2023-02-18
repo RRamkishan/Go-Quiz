@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Whose teaching inspired the French Revolution?",
+    "options": ["Rousseau", "Locke", "Plato", "Hegal"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is the world’s largest and deepest ocean?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is not a type of penguin?",
+    "options": ["Macaroni", "chinstrap", "Emperor", "Waterland"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The State Hermitage Museum is located in which country?",
+    "options": ["Moldova", "Russia", "United State", "France"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Pravin Amre and Vinod Kambli played for which province in south Africa",
+    "options": ["Border", "Griqualand West", "Boland", "Gauteng"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "What is the capital of Ecuador?",
+    "options": ["Islamabad", "Quito", "Perish", "Kabul"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the deepest lake in the United States?",
+    "options": ["Crater Lake", "Chilika Lake", "Lake Tahoe", "None of these"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Of which country is St. Patrick the patron saint?",
+    "options": ["Scotland", "United states", "Ireland", "Germany"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which Cricketer started his international career at the age of 16?",
+    "options": [
+      "Suresh Raina",
+      "Sachin Tendulkar",
+      "chris gayle",
+      "Piyush Chawla"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Queens berry rules is the name given to the rules in",
+    "options": ["Boxing", "Tennis", "Hockey", "Cricket"],
+    "answer_index": 1
+  }
+]

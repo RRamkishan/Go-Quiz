@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Largest number of Eucalyptus species is found in",
+    "options": ["Australia", "Pakistan", "Burma", "New Zealand"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Fixation of nitrogen in the soil",
+    "options": ["Virus", "Bacteria", "Protozoa", "Fungi"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the main function of RNA?",
+    "options": [
+      "Lipid synthesis",
+      "Protein synthesis",
+      "Carbohydrate synthesis",
+      "Protein synthesis"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Water in plants is trans-ported by",
+    "options": ["Phloem", "Xylem", "Epidermis", "Cambium"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Paddy straw is stiff because of",
+    "options": ["Collenchyma", "Hard fibres", "Silica", "Stone cells"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which of the following metals is found in the chlorophyll?",
+    "options": ["Cobalt", "Magnesium", "Iron", "Zinc"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is the cellular respiratory centre?",
+    "options": ["Mitochondria", "Ribosome", "Golgi body", "Nucleus"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Coffee is extracted from the",
+    "options": ["Flowers", "Fruits", "Seeds", "Leaves"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which part of the plant Raphanus sativus is edible?",
+    "options": ["Roots", "All", "Leaves", "Fruit"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "From which part of the plant Glycyrrhiza glabra , Liquorice or Mulethi is obtained?",
+    "options": ["Roots", "Stem", "Leaves", "Fruits"],
+    "answer_index": 1
+  }
+]

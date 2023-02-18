@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Nangal is known for",
+    "options": ["Fertilizers", "Oil Refinery", "Penicillin industry", "Copper"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The most populous city in the world is",
+    "options": ["London", "Tokyo", "Peking", "Paris"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The farthest planet from the Sun is",
+    "options": ["Neptune", "Venus", "Mars", "Pluto"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which is the most abundant metal in the Earth's crust?",
+    "options": ["Iron", "Aluminium", "Nickel", "Silicon"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a key geographical feature of Western Australia?",
+    "options": ["Barchans", "Inselbergs", "Coral Reefs", "Black Swamps"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In which of the following regions, maize is used as staple food?",
+    "options": ["Western Europe", "Middle Africa", "South-East Asia", "Russia"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Four Corners Monument is located in which of the following countries?",
+    "options": ["United States", "Canada", "Mexico", "Boxing"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "When was the game of hockey invented?",
+    "options": ["3 March 1876", "3 March 1877", "3 March 1875", "3 March 1874"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Majid Gyre is a feature of which of the following Oceans?",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Bathymetry is related to which of the following studies?",
+    "options": [
+      "Oceanography",
+      "Astronomy",
+      "Economic Geography",
+      "Climatology"
+    ],
+    "answer_index": 1
+  }
+]

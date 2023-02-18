@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "How many bones does an adult human have?",
+    "options": ["206", "207", "208", "205"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Fathometer is used to measure",
+    "options": ["Earthquakes", "Ocean depth", "Sound intensity", "Rainfall"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "From which mineral is radium obtained?",
+    "options": ["Rutile", "Haematite", "Limestone", "Pitchblende"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What is the name of Mickey Mouse’s pet dog?",
+    "options": ["Bowtie", "Pluto", "Goofy", "Bella"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Why do many people wear red for Chinese New Year?",
+    "options": ["To bring wealth", "It's pretty", "It's lucky", "Tokeep warm"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "The trumpeter swan—North America’s largest waterfowl—weighs about how many pounds?",
+    "options": ["70", "30", "10", "50"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What are there more of in New Zealand than people?",
+    "options": ["Sheep", "River otters", "koalas", "Unicorns"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "For which one of the following snakes is the diet mainly composed of other snakes ?",
+    "options": ["Rattlesnake", "Krait", "King Cobra", "Russel's viper"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "How many koalas stacked on top of one another does it take to reach the height of a male giraffe—the world’s tallest land animal",
+    "options": ["8", "7", "6", "5"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of the following has got more heat capacity?",
+    "options": ["Water", "Benzene", "Gold piece", "Iron piece"],
+    "answer_index": 1
+  }
+]

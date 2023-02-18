@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "How many candles does a Hanukkah menorah hold?",
+    "options": ["Nine", "Four", "Five", "Seven"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the capital of Taiwan (state in East Asia)?",
+    "options": ["Islamabad", "Taipei", "Perish", "Kabul"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The term Gambit is associated with",
+    "options": ["Basket ball", "Baseball", "Tennis", "Chess"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a non metal that remains liquid at room temperature?",
+    "options": ["Helium", "Bromine", "Chlorine", "Phosphorous"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What was the Rubiks cube first called when it was invented by Ernö Rubik in 1974 in Budapest, Hungary?",
+    "options": [
+      "Rubik's Rectangle",
+      "Color cube",
+      "Magic cube",
+      "Super Fan SlideBox"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is used as a lubricant?",
+    "options": ["Diamond", "Graphite", "Silica", "Iron Oxide"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the gas is not known as green house gas?",
+    "options": ["Hydrogen", "Carbon dioxide", "Methane", "Nitrous oxide"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Permanent hardness of water may be removed by the addition of",
+    "options": ["Potassium permanganate", "Lime", "Sodium carbonate", "Alum"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The gas used for making vegetables is ?",
+    "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the largest living marsupial?",
+    "options": ["Red kangaroo", "Elephant", "Wallaby", "Wombat"],
+    "answer_index": 1
+  }
+]

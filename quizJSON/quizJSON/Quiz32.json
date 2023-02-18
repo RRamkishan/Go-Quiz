@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "About how many pounds of bugs does the human accidentally eat each year?",
+    "options": ["5", "10", "15", "20"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What kind of ocean animal is the tiny sea angel?",
+    "options": ["A sea star", "A snail", "A fish", "A jelleyfish"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Hagia Sophia,the 'Church of the Holy Wisdom' is located in which country?",
+    "options": ["Italy", "Greece", "Poland", "Turkey"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which country has no cinema theaters?",
+    "options": ["Iraq", "Saudi Arabia", "Pennsylvania", "Irean"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Pugs used to be a favored pet of which rulers?",
+    "options": [
+      "Egyptian phraaophs",
+      "Roman emperors",
+      "Chinese emperors",
+      "American presidents"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "What is a baby rabbit called?",
+    "options": ["Hare", "Kit", "Deo", "Buck"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which living bird lays the worlds largest egg?",
+    "options": ["Ostrich", "Eagle", "Owl", "Vulture"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Giant pandas do what to scare off their enemies?",
+    "options": [
+      "Stand on their hind legs",
+      "Pound their chests",
+      "Bark",
+      "Sneeze"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which driver has won the most races in Formula One history?",
+    "options": [
+      "Goggles Pisano",
+      "Micheal Schumacher",
+      "Sebastian vettel",
+      "Mario Andratti"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the capital of Philippines?",
+    "options": ["Manila", "Doha", "Lisbon", "Warsaw"],
+    "answer_index": 1
+  }
+]

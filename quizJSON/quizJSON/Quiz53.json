@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "What is a doe?",
+    "options": ["A female deer", "A male deer", "Reo deer", "A Baby deer"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What kind of cat is considered bad luck?",
+    "options": ["Crossing cats", "Black cats", "White cats", "Bombay cats"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "How many days are in a year?",
+    "options": ["363", "366", "364", "365"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What is a group of lions called?",
+    "options": ["Crocodiles", "A pride", "Hippopotamuses", "Leopards"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which is the fastest land animal?",
+    "options": [
+      "Pronghorn Antelope",
+      "Frigate Bird",
+      "The cheetah",
+      "Pronghorn"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which animal can create the loudest sound among any living creature?",
+    "options": ["Whale shark", "Humpback Whales", "Howler monkey", "Gibbon"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "On the farm, what is a kid?",
+    "options": ["A baby goat", "A male goat", "A famale goat", "Chores"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What color are Smurfs?",
+    "options": ["Pink", "Black", "Blue", "Green"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "How many leaves does a shamrock have?",
+    "options": ["Five", "Three", "Four", "Nine"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The UNO was founded at",
+    "options": ["San Francisco", "London", "Moscow", "Paris"],
+    "answer_index": 1
+  }
+]

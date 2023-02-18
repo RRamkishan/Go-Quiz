@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which one is the longest river in Europe",
+    "options": ["Volga", "Rhine", "Ural", "Danube"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which one is the longest river in America",
+    "options": [
+      "Colorado River",
+      "Missouri River",
+      "Mississippi River",
+      "Columbia River"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the official address of England Prime Minister's residence",
+    "options": [
+      "Westminster Abbey",
+      "10th Downing Street",
+      "11th Downing Street",
+      "Buckingham Palace"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 4,
+    "question": "'Peking City' is also known as",
+    "options": ["Tokyo", "Seoul", "Beijing", "Pyongyang"],
+    "answer_index": 3
+  },
+  {
+    "id": 5,
+    "question": "Pyongyang is the capital city of",
+    "options": ["Malaysia", "North Korea", "Vietnam", "Combodia"],
+    "answer_index": 2
+  },
+  {
+    "id": 6,
+    "question": "Vietnam War was ended in the year",
+    "options": ["1975", "1976", "1978", "1980"],
+    "answer_index": 1
+  },
+  {
+    "id": 7,
+    "question": "Vientiane is the capital city of which country",
+    "options": ["Cambodia", "Vietnam", "Laos", "Thailand"],
+    "answer_index": 3
+  },
+  {
+    "id": 8,
+    "question": "The world's largest gold mine 'Grasberg Gold Mine' is located in",
+    "options": ["South Africa", "Indonesia", "Congo", "Brazil"],
+    "answer_index": 2
+  },
+  {
+    "id": 9,
+    "question": "Which country has the highest number of internet users in World",
+    "options": ["Japan", "China", "India", "USA"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which country first introduce the bullet trains",
+    "options": ["Japan", "USA", "South Korea", "France"],
+    "answer_index": 1
+  }
+]

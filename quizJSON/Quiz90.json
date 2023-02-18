@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "A cricket detects sounds through which body part?",
+    "options": ["Knees", "Stomach", "Eyes", "Mouth"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which smell is so gross to cats that theyll stay away from it?",
+    "options": ["Human sweat", "Orange scent", "Dog breath", "Catnip"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Siberian huskies (along with other breeds) compete in the Iditarod each year. What is the Iditarod?",
+    "options": [
+      "Fetch competition",
+      "Eating contest",
+      "Barking contest",
+      "Dogsled race"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which organ purifies our blood?",
+    "options": ["Blood", "Kidney", "Brain", "Heart"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What is the maximum running land speed of Crocodile ?",
+    "options": ["12 KMPL", "5 KMPL", "17 KMPL", "15 KMPL"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "How many legs does a butterfly have?",
+    "options": ["8", "6", "4", "2"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is not an element of culture?",
+    "options": [
+      "Human Beleifs",
+      "Forms of government",
+      "Religion",
+      "Customs and traditions"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "The sun appears what color to an astronaut in space?",
+    "options": ["Red", "Yellow", "White", "Black"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The Petronas Twin Towers is located in which country?",
+    "options": ["Thailand", "Malaysia", "Singapore", "Brazil"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Sodium metal is kept under",
+    "options": ["Kerosene", "Water", "Alcohol", "Petrol"],
+    "answer_index": 1
+  }
+]

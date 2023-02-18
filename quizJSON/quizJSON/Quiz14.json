@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which organization was created as a result of North Atlantic Treaty, 1949",
+    "options": ["NATO", "UNESCO", "UN", "WTO"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Oslo is the capital of",
+    "options": ["Denmark", "Norway", "Hungary", "Finland"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "European Union was established as a result of",
+    "options": [
+      "Germany",
+      "Paris Peace Accords",
+      "New York Agreement",
+      "Treaty of Paris, 1951"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The 'Tartar' tribe inhabitants in which part of the world",
+    "options": ["Australia", "Siberia", "Kenya", "Europe"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "The popular social dance 'Salsa' is originated from",
+    "options": ["Brazil", "Italy", "Cuba", "Mexico"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "'Ikebana' is a Japanese art of",
+    "options": [
+      "Paper Craft",
+      "Flower Arrangement",
+      "Dressing",
+      "None of the above"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which one is the 193rd country to join United Nation",
+    "options": ["South Sudan", "East Timor", "Serbia", "Afghanistan"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Ruhr region is located in",
+    "options": ["Alaska", "Russia", "Germany", "Poland"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The longest river in Australia is",
+    "options": ["Eri", "Murray", "Ontario", "None of the above"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "In which country, you will find the Ural Mountains",
+    "options": ["Russia", "Brazil", "Peru", "Germany"],
+    "answer_index": 1
+  }
+]

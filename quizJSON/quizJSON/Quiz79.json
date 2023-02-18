@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which part of the computer is its Brain?",
+    "options": ["CPU", "Moniter", "Keyboard", "Mouse"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Country that has the highest in Barley Production ?",
+    "options": ["China", "Russia", "India", "France"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Whichtennis player has won her first Grand Slam title by winning the US Open?",
+    "options": ["Johna Dru", "Kapil Dev", "Michael", "Dominic Theme"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which means of transport do you use in water?",
+    "options": ["Cycle", "Ship", "Car", "Bike"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Term Chinaman is related to which sports ?",
+    "options": ["Football", "Golf", "Cricket", "Hockey"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "How many fingers are there in your hands?",
+    "options": ["Four", "Ten", "Six", "Seven"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "In which of the following animals is respiration done by skin?",
+    "options": ["Frog", "Chemeleon", "Sea horse", "Flying fish"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which animal is the tallest in the world?",
+    "options": ["Dog", "Horse", "Giraffe", "Elephant"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which singing voice is the highest pitch? Soprano, tenor or baritone?",
+    "options": ["Choir", "Soprano", "Mezzo", "Contralto"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The headquarters of International Atomic Energy Agency is located in",
+    "options": ["Vienna", "Washington", "Paraguay", "London"],
+    "answer_index": 1
+  }
+]

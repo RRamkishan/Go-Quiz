@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which of these words is another word for “ghost”?",
+    "options": ["Phantom", "Phoenix", "Gnome", "Sprite"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Jane Goodall is famous for studying the behavior of which of the following apes?",
+    "options": ["Gorillas", "Chimpanzees", "Bonobos", "Orangutans"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "How many wheels does a cycle have?",
+    "options": ["Seven", "Six", "Five", "Two"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Lake Baikal is located in ?",
+    "options": ["USA", "Russia", "India", "Canada"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which country is known as land of kangaroo ?",
+    "options": ["France", "Italy", "Australia", "Africa"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the fairy in Peter Pan?",
+    "options": ["Captain hook", "Tinkerbell", "Hook", "Tiger lily"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Bokaro Steel Limited was established with the assistance",
+    "options": ["Soviet Union", "UK", "USA", "Germany"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Sugar Bowl of the World?",
+    "options": ["Cuba", "India", "Brazil", "Australia"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Ankara is the capital of which country?",
+    "options": ["Vanuatu", "Turkey", "Uruguay", "Uganda"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What animal has the worst memory?",
+    "options": ["Elephant", "Dolphin", "Rat", "Dog"],
+    "answer_index": 1
+  }
+]

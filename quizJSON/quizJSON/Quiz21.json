@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Panama (a country) connects the two continents",
+    "options": [
+      "South America and North America",
+      "Asia and Australia",
+      "Asia and Europe",
+      "Asia and Africa"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Turkey connects the two continents",
+    "options": [
+      "Asia and Africa",
+      "Asia and Europe",
+      "South America and North America",
+      "Asia and Australia"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The Engadin Valley is located in",
+    "options": ["Egypt", "Turkey", "Portugal  ", "Switzerland"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The Pico Island is located in",
+    "options": ["Turkey", "Portugal ", "Switzerland", "Egypt "],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Sultan Ahmed Mosque in Istanbul is popularly known as the",
+    "options": ["Yellow Mosque", "Green Mosque", "Blue Mosque", "Red Mosque "],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "The Great Pyramid of Giza, is located in",
+    "options": ["Portugal", "Egypt", "Turkey", "Switzerland"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which city is also called The City of 1,000 Minarets?",
+    "options": ["Cairo", "Makkah", "Istanbul", "Islamabad"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "The South Pole of the Earth is located in",
+    "options": ["Arctic Ocean", "Pacific Ocean", "Antarctica", "Norway"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The Sinai Peninsula is located in",
+    "options": ["Portugal", "Egypt", "Turkey", "Switzerland"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Eritrea,recently becamethe member of the UNO ,is on the continent of",
+    "options": ["Africa", "Europe", "Australia", "Asia"],
+    "answer_index": 1
+  }
+]

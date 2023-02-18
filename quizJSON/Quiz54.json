@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What is the largest mammal in the world?",
+    "options": ["A whale", "Rhinoceros", "Polar bear", "Giraffe"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Magnitude of 7.9 earthquakes faced by which country on 22 January 2017?",
+    "options": ["South Korea", "Papua New Guinea", "India", "China"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What animal has the highest blood pressure?",
+    "options": ["Elephant", "Lion", "Rabbit", "Giraffe"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which of these people was the first to set foot on the moon?",
+    "options": [
+      "Orville wright",
+      "Neil Armstrong",
+      "Jim lovell",
+      "Luke skywalker"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What gulf is located to the south of Florida?",
+    "options": ["New Orleans", "Tampa", "The Gulf of Mexico", "Houston"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "What food do pandas eat?",
+    "options": ["Vegetables", "Bamboo", "Meat", "Fruit"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "How many colors are in a rainbow?",
+    "options": ["Seven", "Two", "Five", "Six"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the largest state in America?",
+    "options": ["Wasington", "Georgia", "Alaska", "Hawaii"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What planet has the largest volcano in the solar system?",
+    "options": ["Saturn", "Mars", "Earth", "Uranus"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is Mars's nickname?",
+    "options": [
+      "The red planet",
+      "The dusty planet",
+      "The hot planet",
+      "The Smelly planet"
+    ],
+    "answer_index": 1
+  }
+]

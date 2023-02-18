@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of a well-known meteor shower that peaks each November?",
+    "options": ["Leonids", "Linus", "Northern Light", "Winter shower"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Pashmina shawl is made from the hair of",
+    "options": ["Rabbit", "Goat", "Yak", "Sheep"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which of the following has the largest eyes of all land mammals?",
+    "options": ["Rhinocerous", "Camel", "Elephant", "Horse"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which place is called “the happiest place in the world?”",
+    "options": ["Bhutan", "Disney World", "Finland", "Norway"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which of the following plants is not capable of manufacturing own food?",
+    "options": ["Algae", "Carrot", "Mushroom", "Cabbage"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "The worlds tallest twisted tower is ?",
+    "options": [
+      "Tokyo Sky Tree",
+      "Infinity Tower",
+      "BREN Tower",
+      "Burj Khalifa"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What country has the most historically active volcanoes?",
+    "options": ["Indonesia", "Canada", "Italy", "U.S"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "The National Game of Japan is",
+    "options": ["Tennis", "Karate", "Sumo wrestling", "Ice Hockey"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "On which continent have the most dinosaur fossils been found?",
+    "options": ["Antarctica", "North america", "Africa", "Asia"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The International Rice Research Institute is located in",
+    "options": ["Philippines", "Indonesia", "Malaysia", "Thailand"],
+    "answer_index": 1
+  }
+]

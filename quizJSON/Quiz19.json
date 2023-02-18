@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "The second largest Island (next to Greenland) of the World is",
+    "options": ["New Guinea", "Sumatra", "Malagasy", "Borneo"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The most populated desert in the world is",
+    "options": ["Sahara", "Thar", "Gobi", "Kalahari"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which country operationalized world’s largest radio telescope?",
+    "options": ["Africa", "USA", "Russia", "China"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Rivers Tigris and Euphrates are associated with?",
+    "options": [
+      "Chinese Civilization",
+      "Mesopotamian Civilization",
+      "Egyptian Civilization",
+      "Harappan Civilization"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which among following is called 'Gift of the Nile'?",
+    "options": ["India", "China", "Egypt", "Iraq"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Who is considered as the master of Greek comedy?",
+    "options": ["Aeschylus", "Aristophanes", "Philip", "Sophocles"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "When ancient Olympic games first held?",
+    "options": ["776 BC", "780 BC", "790 BC", "800 BC"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Who was the first U.S. President to resign Presidency?",
+    "options": [
+      "Henry Waterloo",
+      "George Bush",
+      "Richard Nixon",
+      "Robert Walpole"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Who was the first man to have climbed Mount Everest Twice?",
+    "options": [
+      "George Bush",
+      "Nawang Gombu",
+      "Robert Walpole",
+      "Henry Waterloo"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Who scored 3 consecutive centuries in his debut?",
+    "options": [
+      "Mohammad Azharuddin",
+      "Sachin Tendulkar",
+      "Lala Amarnath",
+      "Virat Kohli "
+    ],
+    "answer_index": 1
+  }
+]

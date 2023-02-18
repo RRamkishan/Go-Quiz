@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "About how much money is spent on gifts for the average pet each year?",
+    "options": ["$65", "$35", "$50", "$100"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Where is the Great Pyramid of Giza?",
+    "options": ["Ancient egypt", "Egypt", "Giza fact", "Cairo egypt"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Now made of plastic and rubber, golf balls were once made of",
+    "options": ["Aluminum", "Leather", "Clay", "Wood"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Katerina Sakellaropoulou was elected the first woman President",
+    "options": ["Netherland", "Greece", "Spain", "Finland"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What phenomenon does the moon affect on Earth?",
+    "options": ["Mountain erosion", "The growth", "The tides", "The seasona"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "How many legs does a spider have?",
+    "options": ["Two", "Eight", "Nine", "Four"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Where does Santa Claus live?",
+    "options": ["The North Pole", "Ravaniemi", "Finland", "Kris Kringle"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "In which one of the following animals is skin a respiratory organ?",
+    "options": ["Dog", "OX", "frog", "Cow"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What type of fish is Nemo?",
+    "options": ["Aquarium", "A clownfish", "Ocellaris", "Gill"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What do caterpillars turn into?",
+    "options": ["Butterflies", "Wooly bear", "Moth larvae", "Chrysalis"],
+    "answer_index": 1
+  }
+]

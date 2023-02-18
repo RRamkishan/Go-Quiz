@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "How many shark species are there?",
+    "options": ["500", "70", "770", "170"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "How many moons does Mars have?",
+    "options": ["1", "2", "5", "8"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "How many planets are in our solar system?",
+    "options": ["Five", "Two", "Nine", "Eight"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which televised sport do many people watch on Thanksgiving?",
+    "options": ["Cricket", "Football", "Basket ball", "Base ball"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What color is the Martian sky during the day?",
+    "options": ["Orange", "Traquoise", "Butterscotch", "Purple"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "How long does a day last on the moon?",
+    "options": [
+      "12 hours",
+      "27 Earth days",
+      "24 hours,like Earth",
+      "5 Earth days"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What causes the moon to shine?",
+    "options": ["The sun", "Pixie dust", "Electricity", "Its red-hot surface"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What do many astronomers think caused the formation of the moon?",
+    "options": ["The moon", "The sun", "An asteroid", "A corner"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which part of a cat is as unique as a human fingerprint?",
+    "options": ["Claws", "Nose pad", "Paw pads", "Tongue"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "How old is the moon?",
+    "options": [
+      "4.5 billion years",
+      "10 billion years",
+      "5.4million years",
+      "100 years"
+    ],
+    "answer_index": 1
+  }
+]

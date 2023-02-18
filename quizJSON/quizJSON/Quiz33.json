@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "After hatching,how long does a baby turtle to dig their way to the surface?",
+    "options": ["A month", "A year", "A day", "A week"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Queen Victoria popularized which article of clothing when she wore it in 1840?",
+    "options": ["A tutu", "A white wedding dress", "A straw hat", "High heels"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which is the largest fresh water lake in the world?",
+    "options": [
+      "Lake Michigan",
+      "Lake Titicaca",
+      "Chilika Lake",
+      "Lake Baikal"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What is the Color of the Leaves?",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which fish brings its own fishing pole to catch its dinner?",
+    "options": ["Salmon", "Unicorn fish", "Anglerfish", "Pole fish"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Name the place at which two streams flow together to form one larger stream?",
+    "options": ["Waterfall", "Confluence", "Bank", "Mouth"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following does not contain a coinage metal?",
+    "options": [
+      "Zinc and Gold",
+      "Copper and Silver",
+      "Copper and Gold",
+      "Silver and Gold"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Auckland is the largest city located in which country ?",
+    "options": ["South Africa", "Australia", "New Zealand", "West Indies"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Who was at the helm of the Philadelphia Phillies in the 2011 season?",
+    "options": ["Larry Bowa", "Charlie Manuel", "Cam Newton", "None of these"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "About how many eggs do giant water bug dads carry on their backs?",
+    "options": ["150", "50", "25", "80"],
+    "answer_index": 1
+  }
+]

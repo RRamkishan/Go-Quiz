@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Which popular social media company came first?",
+    "options": ["Facebook", "Instagram", "Youtube", "Twitter"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which planet has the largest moon?",
+    "options": ["Mars", "Jupiter", "Earth", "Venus"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which of the following Valleys is known as Paradise of Earth ?",
+    "options": [
+      "Kullu Valley",
+      "Doon Valley",
+      "Kangra Valley",
+      "Kashmir Valley"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which is Canada’s National Winter Sport?",
+    "options": ["Hockey", "Ice Hockey", "Rugby", "Lacrrose"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "About how long would it take to travel to Mars?",
+    "options": ["Two years", "A month", "Eight months", "Three days"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Who is the Chief Executive Officer of Amazon?",
+    "options": ["Trump", "Jeff Bezos", "Charles Joseph", "Parvej Baveja"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which is the only bird that can fly backwards?",
+    "options": ["Hummingbird", "Honey eater", "Kingfisher", "Sunbird"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What do bees make?",
+    "options": ["Pollination", "Comb", "Honey", "Hexagon"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Name the bird that migrates from the north pole to the south pole and back?",
+    "options": ["Crane", "Arctic tern", "Swallow", "Penguin"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which planet shares its name with a dog?",
+    "options": ["Pluto", "Mars", "Neptune", "Earth"],
+    "answer_index": 1
+  }
+]

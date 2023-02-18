@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which of these is a green-colored vegetable?",
+    "options": ["Pea", "Tomato", "Cauliflower", "Potato"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Balloons are filled with",
+    "options": ["nitrogen", "helium", "oxygen", "argon"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The average salinity of sea water is",
+    "options": ["0.025", "0.02", "0.03", "0.035"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "For Galvanizing Iron which of the following Metals is used?",
+    "options": ["Copper", "Zinc", "Lead", "Aluminium"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "In the 1936 Summer Olympics, Jessie Owens won four gold medals in which sport?",
+    "options": ["Gymnastics", "Weight lifting", "Track and field", "Swimming"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In which of the following countries are there twice as many pigs as people?",
+    "options": ["The Netherlands", "Denmark", "Belgium", "The united states"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Most soluble in water is",
+    "options": ["Sugar", "Common salt", "Sulphur", "Powder"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Who among the following is the co-founder of Twitter?",
+    "options": [
+      "Bill Gates ",
+      "Narayan Murthy",
+      "Jack Dorsey ",
+      "Tim Berners-Lee"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Carbon, diamond and graphite are together called",
+    "options": ["Isotopes", "Allotropes", "Isomers", "Isomorphs"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Smallest cricket stadium in the world by boundary?",
+    "options": [
+      "Feroz Shah Kotla",
+      "Sydney Cricket Stadium",
+      "Melbourne Cricket Ground",
+      "Carisbrook Stadium"
+    ],
+    "answer_index": 1
+  }
+]

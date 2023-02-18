@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "When did China get back Macao?",
+    "options": ["1999", "1998", "1995", "2000"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which country was annexed by China in 1950?",
+    "options": ["VIetnam", "Tibet", "Nepal", "Mongalia"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Who ruled China when Marco Polo reached there in 1266?",
+    "options": ["Akbar", "Babur", "Chengiz khan", "Kublai Khan"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Who became the President of China in 1912?",
+    "options": ["Hua  Kuo  Feng", "Sun Yat Sen", "Lin  piao", "Mao Zedong"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What does A stand for in ANZUS?",
+    "options": ["Australia", "Asia", "Arabia", "America"],
+    "answer_index": 1
+  },
+  {
+    "id": 6,
+    "question": "When was Franklin Pierce sworn in as President of USA?",
+    "options": [
+      "20 January 1841",
+      "4 March 1853",
+      "20 January 1849",
+      "4 March 1853"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "When was Franklin Pierce born?",
+    "options": [
+      "23 November 1804",
+      "1 January 1801",
+      "3 March 1812",
+      "1 October 1809"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which is the capital of Guyana?",
+    "options": ["Lethem", "Isherton", "Georgetown", "Charity"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Who of the following authors was a class mate of Franklin Pierce?",
+    "options": [
+      "CharlesDickens",
+      "Nathaniel Hawthorne",
+      "John Keats",
+      "Percy Bysshe Shelley"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which college did Franklin Pierce attend?",
+    "options": [
+      "Bowdoin College",
+      "Hampden-Sydney College",
+      "Morehouse College",
+      "St.Albert's College"
+    ],
+    "answer_index": 1
+  }
+]

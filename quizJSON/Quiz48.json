@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Which type of rock is so full of gas bubbles that it can float?",
+    "options": ["Pumice", "Ruby", "Slate", "Obsidian"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "To create Stonehenge, humans moved giant bluestones as far as 140 miles how many years ago?",
+    "options": ["5000", "4500", "1500", "10000"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The World Largest desert is ?",
+    "options": ["Kalahari", "Thar", "Sonoran", "Sahara"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "How old are the oldest rocks on Earth?",
+    "options": [
+      "4 billion years old",
+      "4 billion years old",
+      "1 million years old",
+      "60 trillion years old"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which of these animals does not live in Antarctica?",
+    "options": ["Adelie Penguins", "Leapard seals", "Puffins", "Orcas"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "On which planet do we live?",
+    "options": ["Venus", "Earth", "Mars", "Jupiter"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Veto power is not possessed by",
+    "options": ["West Germany", "Russia", "U.S.A", "U.K"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What is a baby shark called?",
+    "options": ["Sharklet", "Calf", "Pup", "joey"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What are shark skeletons made of?",
+    "options": ["They don't have them", "Cartilage", "Bone", "keratin"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "After eating a seal or a sea lion, how long can a great white shark go without another big meal?",
+    "options": ["A month", "A day", "A week", "A few hours"],
+    "answer_index": 1
+  }
+]

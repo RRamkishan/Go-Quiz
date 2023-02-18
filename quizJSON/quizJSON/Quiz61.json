@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "How many teeth does a human have?",
+    "options": ["32", "30", "31", "33"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "In which city the worlds tallest sandcastle has been built ?",
+    "options": ["Havana", "Duisburg", "Berlin", "Paris"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Each November, macaques get a special feast in their honor in which country?",
+    "options": ["Chile", "Iceland", "Japan", "Thailand"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "In how many hours does earth complete one rotation?",
+    "options": ["22hours", "24 hours", "23hours", "12hours"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What is the tallest mountain in the world?",
+    "options": ["Manaslu", "Cho Oyu", "Mount Everest", "K2"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which of the following animals give us milk?",
+    "options": ["Monkey", "Cow", "Dog", "Cat"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Tobacco Addiction is due to",
+    "options": ["Nicotine", "Histamine", "Caffeine", "Cocaine"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "How many days are there in a Leap Year?",
+    "options": ["367", "364", "366", "365"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Spiders have eight legs, but what other body part do they usually have eight of?",
+    "options": ["Feet", "Eyes", "Hands", "Mouths"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the color of a school bus?",
+    "options": ["Yellow", "Green", "Red", "Black"],
+    "answer_index": 1
+  }
+]

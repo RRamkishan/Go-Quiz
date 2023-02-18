@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What happens when some charge is placed on a soap bubble?",
+    "options": [
+      "Its radius increases",
+      "The bubble expands",
+      "The bubble Collapses",
+      "Its radius decreases"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The most populous city in the world is ?",
+    "options": ["Peking", "Tokyo", "Paris", "London"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which of these presidents doubled the acreage of the National Park System?",
+    "options": [
+      "Richard Nixon",
+      "Calvin Coolidage",
+      "George H.W.Bush",
+      "Jimmy Carter"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which of these mineral can be found in milk teath and limestones",
+    "options": ["Sodium", "Calcium", "Potassium", "Magnesium"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "In which field is the B.C. Roy Award given?",
+    "options": ["Music", "Journalism", "Medicine", "Environment"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which of the following items was introduced by James Watt?",
+    "options": [
+      "Hot air balloon",
+      "Rotary Steam Engine",
+      "Diving bell",
+      "Steam boat"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "The brain fever which affects young children",
+    "options": ["Encephalitis", "Pneumonia", "Typhoid", "Malaria"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "The instrument useful for measuring curvature of surface",
+    "options": ["Odometer", "Speedometer", "Spherometer", "Tachometer"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The metal whose salts are sensitive to light",
+    "options": ["Gold", "Silver", "Zinc", "Copper"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is the lowermost layer of the Atmosphere?",
+    "options": ["Troposphere", "Mesosphere", "Exosphere", "Thermosphere"],
+    "answer_index": 1
+  }
+]

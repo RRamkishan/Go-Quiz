@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "How many principal organs of United Nation have",
+    "options": ["5", "6", "7", "9"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Where the 'International Court of Justice' headquarters is located",
+    "options": ["Amsterdam", "The Hague", "Washington", "Berlin"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "'Yen' is the currency of which country",
+    "options": ["South Korea", "Japan", "Malaysia", "North Korea"],
+    "answer_index": 2
+  },
+  {
+    "id": 4,
+    "question": "'Ringgit' is the currency of which country",
+    "options": ["Indonesia", "Singapore", "Malaysia", "Cambodia"],
+    "answer_index": 3
+  },
+  {
+    "id": 5,
+    "question": "'Astana' is the capital city of which country",
+    "options": ["Tajikistan", "Kazakhstan", "Turkmenistan", "Uzbekistan"],
+    "answer_index": 2
+  },
+  {
+    "id": 6,
+    "question": "How many new countries are emerged from the Union of Soviet Socialist Republics in its dissolution in December 1991",
+    "options": ["15", "16", "18", "19"],
+    "answer_index": 1
+  },
+  {
+    "id": 7,
+    "question": "Which one is the World's biggest cave",
+    "options": [
+      "Optymistychna Cave, Ukraine",
+      "Holloch, Switzerland",
+      "Son Doong cave, Vietnam",
+      "Jewel Cave, United State"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 8,
+    "question": "Which animal is in the logo of WWF (World Wildlife Fund For Nature)",
+    "options": ["Tiger", "Giant Panda", "Bald Eagle", "Bull"],
+    "answer_index": 2
+  },
+  {
+    "id": 9,
+    "question": "Which city first observed the Earth Hour (turn off non-essential lights for one hour) on 31st March, 2007",
+    "options": ["San Francisco", "Sydney", "Rome", "Paris"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "World Environment Day is observed every year on",
+    "options": ["5th June", "30th September", "26th August", "13th January"],
+    "answer_index": 1
+  }
+]

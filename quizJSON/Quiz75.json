@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What does airbag, used for safety of car driver, contain?",
+    "options": [
+      "Sodium azide",
+      "Sodium peroxide",
+      "Sodium nitrite",
+      "Sodium bicarbonate"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Soda water contains",
+    "options": [
+      "Sulphuric acid",
+      "Carbon dioxide",
+      "Nitrous acid",
+      "Carbonic acid"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The most important ore of aluminium is",
+    "options": ["Calamine", "Calcite", "Galena", "Bauxite"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which one of the following is not a true fish?",
+    "options": ["Silver fish", "Sucker fish", "Hammer fish", "Saw fish"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "The inert gas which is substituted for nitrogen in the air used by deep sea divers for breathing, is",
+    "options": ["Argon", "Xenon", "Helium", "Krypton"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "What country presented the Statue of Liberty to the United States?",
+    "options": ["Russia", "France", "china", "Algeria"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which type of shark uses its oversize teeth to gouge its prey’s flesh like an ice-cream scooper?",
+    "options": [
+      "Cookie-cutter shark",
+      "vegetarian shark",
+      "Nurse Shark",
+      "Hammerhead shark"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Whose nose grew longer every time he lied?",
+    "options": ["Omino di burro", "Geppetto", "Pinocchio", "Figaro"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The gas usually filled in the electric bulb is",
+    "options": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon dioxide"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Actinides are the elements with atomic numbers from",
+    "options": ["89 to 103", "36 from 43", "97 to 104", "101 to 115"],
+    "answer_index": 1
+  }
+]

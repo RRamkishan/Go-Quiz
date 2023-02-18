@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "How much is the original Mona Lisa worth?",
+    "options": ["$850 million", "$800 million", "$750 million", "$700 million"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The first kites were believed to have been made by a man named Lu Pan in China in about 400 B.C. In what shape did he make them?",
+    "options": ["Clouds", "Birds", "Trees", "Faces"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "In which season do we need more fat?",
+    "options": ["Summer", "Rainy season", "Spring", "Winter"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which part of a cat’s body can appear and disappear?",
+    "options": ["Its tail", "Its claws", "Its eyes", "Its whiskers"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Golf player Vijay Singh belongs to which country?",
+    "options": ["USA", "India", "Fiji", "UK"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Name the longest river on earth.",
+    "options": ["Congo", "Nile", "Amazon", "Yangtze"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Where is the Morris Canal Located?",
+    "options": ["New Jeresy", "Michigan", "Washington", "California"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "How many whiskers does the average cat have on each side of its face?",
+    "options": ["5007", "3", "12", "1"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of these TV families first appeared in a 1938 magazine cartoon?",
+    "options": [
+      "The Munsters",
+      "The Addams Family",
+      "The Finestones",
+      "The Brady Bunch"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is a dreidel?",
+    "options": [
+      "A four-sided top",
+      "A gift",
+      "A decoration",
+      "A Potato pancake"
+    ],
+    "answer_index": 1
+  }
+]

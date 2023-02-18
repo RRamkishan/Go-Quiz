@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following plants have respiratory roots?",
+    "options": ["Mangroves", "Epiphytes", "Marshy Plants", "Submerged"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "From which part, Coconut coir is obtained?",
+    "options": ["Endocarp", "Epicarp", "Endocarp", "Epicarp"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Movements due to light are shown by",
+    "options": [
+      "All the plants",
+      "All land plants",
+      "Lower plants",
+      "Flowering plants"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Outer covering of virus made up of protein is",
+    "options": ["Viriod", "Capsid", "Coat", "Virion"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Plants absorb most part of water needed by them through their",
+    "options": ["ROOT hair", "Embroyonic zone", "growing point", "zone of elongation"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In which one of the following animals is skin a respiratory organ?",
+    "options": ["Cockroach", "Frog", "Shark", "Whale"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which one of the following is a vitamin?",
+    "options": ["Folic acid", "Lonoleic acid", "Glutamic acid", "Citric acid"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which schemes have been launched for the school-going children?",
+    "options": ["SarvaShikshaAbhiyan", "AYUSH", "Mid-Day Meal", "Lok Jumbish"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is NOT a banking related term?",
+    "options": [
+      "Benchmark Prime",
+      "Radiation",
+      "Outstanding Amount",
+      "Explicit Guarantee"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The amount due to vendors that must be paid within one year is known",
+    "options": ["Accounts Payable", "Current Assets", "Creditor", "Debtors"],
+    "answer_index": 1
+  }
+]

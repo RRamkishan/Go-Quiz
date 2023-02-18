@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Christ The Redeemer Statue on Corcovado Mountain is located in which country?",
+    "options": ["Brazil", "Canada", "Hungary", "China"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Where is the world’s tallest building?",
+    "options": [
+      "Moscow,Russia",
+      "Dubai, UAE",
+      "New York city, USA",
+      "London,England"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Waterloo is located in",
+    "options": ["France", "England", "Switzerland", "Belgium"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Red-eyed tree frogs dont have webbed toes, so they dont usually go:",
+    "options": ["Onto leaves", "In the water", "Up trees", "Under rocks"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "If you saw a mummy chasing you on Halloween, which country would you guess it had come from?",
+    "options": ["Transylvania", "Great Britain", "Egypt", "China"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which is NOT one of the three top varieties of rocks?",
+    "options": ["Metamorphic", "Paleomorphic", "Sedimentary", "Igneous"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "In the past 250 years, which volcano has killed the most people?",
+    "options": [
+      "Tambora,Indonesia",
+      "Asama,Japan",
+      "Mount st.Helens ,U.S",
+      "Askja,Iceland"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "The Great Barrier Reef is located in which country?",
+    "options": ["Taiwan", "South Africa", "Australia", "China"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which ocean is off the California coast?",
+    "options": ["Pockmark", "The Pacific", "South coast", "Nino ocean"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What sort of supernatural being is Dracula?",
+    "options": ["Vampire", "Goblin", "Ghost", "Banshee"],
+    "answer_index": 1
+  }
+]

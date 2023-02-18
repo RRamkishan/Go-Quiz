@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which animal is known as “Ship of Desert”?",
+    "options": ["Camel", "Donkey", "Elephant", "Horse"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which vegetable was originally used to make jack-o’-lanterns?",
+    "options": ["Spinach", "Turnips", "peppers", "Celery"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The blue colour of the clear sky is due to",
+    "options": [
+      "Diffraction of light",
+      "Reflection of light",
+      "Refraction of light",
+      "Dispersion of light"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "How many bones are in the hand?",
+    "options": ["26bones", "27bones", "28bones", "29bones"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "How many pairs of wings do bees have?",
+    "options": ["Seven", "Eight", "Two", "One"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is used in pencils?",
+    "options": ["Silicon", "Graphite", "Charcoal", "Phosphorous"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Collies were originally bred to do what job?",
+    "options": ["Sheep herding", "Hunting", "Guarding", "Rescue"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Epsom(England) is the place associated with",
+    "options": ["Snooker", "Shooting", "Horse racing", "Polo"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Name the vowels in English.",
+    "options": ["A,K,W,O,U", "A,E,I,O,U", "A,E,I,O,J", "A,E,I,P,M"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Welsh corgis were originally bred to do what job on grazing lands?",
+    "options": [
+      "Herding cattle",
+      "Hunting rabbits",
+      "Chasing people away",
+      "Trimming the grass"
+    ],
+    "answer_index": 1
+  }
+]

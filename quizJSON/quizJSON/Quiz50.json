@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Can you name the closest star to Earth?",
+    "options": ["The sun", "The moon", "The Mercury", "The venus"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which is the biggest planet in our Solar System?",
+    "options": ["Venus", "Jupiter", "Mars", "Earth"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The shish kebab, a type of barbecue, comes from which country?",
+    "options": ["United States", "Greece", "Australia", "Turkey"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which animals are most commonly associated with witches?",
+    "options": ["Red Pandas", "Black cats", "Green frog", "yellow dogs"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Cataract is the disease of",
+    "options": ["Hair", "Ear", "Eye", "Nose"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Abu Simbel is located in which country?",
+    "options": ["South Africa", "Egypt", "Iran", "Iraq"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "The sweet taste of fruits is due to",
+    "options": ["Fructose", "Maltose", "Lactose", "Ribose"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "A professional rock expert is called what?",
+    "options": ["Stone Doctor", "Igneologist", "Petrologist", "Mineralogist"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of the following terms would not be used to refer to a young lion?",
+    "options": ["Cub", "Calf", "Whelp", "Lionet"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Where is Everglades National Park located?",
+    "options": ["Florida", "Georgie", "California", "Virginia"],
+    "answer_index": 1
+  }
+]

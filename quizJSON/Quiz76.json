@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "IC chips used in computers are made?",
+    "options": ["Silicon", "Silver", "Iron oxide", "Chromium"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The first Asian Secretary general of U.N.O was",
+    "options": [
+      "Vijaya Laxmi pandit",
+      "Trygve Lie",
+      "Kurt Waldheum",
+      "U.Thant"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Diamond is an allotropic form of",
+    "options": ["Germanium", "Sulphur", "Silicon", "Carbon"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "In fireworks, the green flame is produced because of",
+    "options": ["Sodium", "Barium", "Mercury", "Potassium"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What is the scientific name for a shooting star?",
+    "options": ["Golgi bodies", "Chloroplast", "Meteor", "Lysosomes"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Bromine is a",
+    "options": [
+      "Black solid",
+      "Red liquid",
+      "Colourless gas",
+      "Highly inflammable gas"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What uses the most energy in U.S. homes each year?",
+    "options": [
+      "Heating and air-conditioning",
+      "Lighting",
+      "Refrigeration",
+      "Heating Water"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Galvanised iron sheets have a coating of",
+    "options": ["lead", "chromium", "zinc", "tin"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "With which game does Davis Cup is associated",
+    "options": ["Hockey", "Lawn Tennis", "Polo", "Table Tennis"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of these big cats is the largest in the world?",
+    "options": ["Tiger", "Lion", "Leopard", "Cheetah"],
+    "answer_index": 1
+  }
+]

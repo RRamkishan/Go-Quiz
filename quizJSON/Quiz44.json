@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Which river flows through the rainforests of Brazil?",
+    "options": ["Amazon", "Rio Grande", "Kookaburra", "Watus"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which Vitamin helps to heal the wound",
+    "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The variety of coal in which the deposit contains recognisable traces of the original plant material is",
+    "options": ["Bitumen", "Anthracite", "Lignite", "Peat"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "In tearms supersonic applies to an object s if it is traveling faster thenwha",
+    "options": ["Radio wave", "Sounds wave", "Electric current", "Light wave"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which is the tallest waterfall in the world?",
+    "options": [
+      "Surili Falls",
+      "Niagara Falls",
+      "Angel Falls",
+      "Victoria Falls"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "The property of a substance to absorb moisture from the air on exposure is called",
+    "options": ["Osmosis", "Deliquescence", "Desiccation", "Efflorescence"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is the only bird to have just two toes on each foot?",
+    "options": ["Ostrich", "Vulture", "Flamingo", "Owl"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which country launched its first large-scale electric car-sharing programme?",
+    "options": ["South Korea", "China", "Singapore", "India"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The silky anteater is the world’s smallest anteater. Up to how many ants does it eat in one day??",
+    "options": ["50000", "5000", "500", "50"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Chlorophyll is a naturally occurring chelate compound in which central metal is",
+    "options": ["Magnesium", "Iron", "Calcium", "Copper"],
+    "answer_index": 1
+  }
+]

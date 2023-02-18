@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "question": "The river situated along the border between the USA and Mexico is",
+    "options": [
+      "The Rio Grande",
+      "The Amazon",
+      "The Mississippi",
+      "The Colorado"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The planet with the maximum number of natural satellites (moons), so far discovered is",
+    "options": ["Uranus", "Jupiter", "Neptune", "Saturn"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The ratio of land to ocean in the southern hemisphere is",
+    "options": ["1 to 10", "1 to 1", "1 to 1.5", "1 to 4"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The planets called the inner planets, are",
+    "options": [
+      "Jupiter, Saturn, Uranus, Neptune",
+      "Mercury, Venus, Earth, Mars",
+      "Saturn, Uranus, Neptun",
+      "Mars, Jupiter, Saturn, Uranus"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Who is the first person to reach Mount Everest?",
+    "options": [
+      "Charles Hillary",
+      "Johan don",
+      "Sherpa Tensing, Edmund Hillary",
+      "Rajesh Sharma"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Who is the first person to reach North Pole? ",
+    "options": [
+      "Johan don",
+      "Robert Peary",
+      "Charles Hillary",
+      "Rajesh Sharma"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which is the first country to print book?",
+    "options": ["China", "India", "USA", "UK"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which is the first country to issue paper currency?",
+    "options": ["USA", "India", "China", "UK"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Who is the first Prime Minister of Britain?",
+    "options": [
+      "George Washington",
+      "Robert Walpole",
+      "Henry Waterloo",
+      "George Bush"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which is the first country to host NAM summit?",
+    "options": ["Belgrade (Yugoslavia)", "India", "UK", "USA"],
+    "answer_index": 1
+  }
+]

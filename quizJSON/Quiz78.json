@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "On which continent would you find the Andes mountains?",
+    "options": ["South America", "Africa", "Antarctica", "North America"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which Disney movie is Elsa in?",
+    "options": ["Jack frost", "Frozen", "Princess", "Snow queen"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The first synthetic fibre made by man was ____ ?",
+    "options": ["Rayon", "Terycott", "Polyester", "Nylon"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The maximum limit in decibels of sound intensity above which a person cannot hear—",
+    "options": ["50 db", "95 db", "85 db", "70 db"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What is the hottest continent on Earth?",
+    "options": ["Asia", "South America", "Africa", "Europe"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Recently, the famous personality Diana Rigg has passed away, was she?",
+    "options": ["Scientist", "actress", "singer", "Author"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which is the team sport of the state of Maryland?",
+    "options": ["Lacrosse", "Basket ball", "Football", "Soccer"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which organ helps sharks to float?",
+    "options": ["Stomach", "Heart", "Liver", "Spleen"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What food does a cow eat?",
+    "options": ["Tree", "Grass", "Chicken", "Fish"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The old London Bridge was transported and rebuilt in which city?",
+    "options": [
+      "Lake Havasu city,Arizona",
+      "Gerlingen,Germany",
+      "Akita,Japan",
+      "Toluca,Mexico"
+    ],
+    "answer_index": 1
+  }
+]

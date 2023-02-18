@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which among the following is not a true fruit?",
+    "options": ["Plum", "Canada", "Apple", "Date"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Ammonification take place in",
+    "options": ["Forest", "Ditch", "Leaves", "Sea"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which plant was used by Mendel in his early experiment?",
+    "options": ["Orange", "Banana", "Brinjal", "Pea plant"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "More rate of photosynthesis occurs in",
+    "options": ["Red light", "White light", "Yellow light", "Blue light"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Plants produces energy during",
+    "options": ["Respiration", "Absorption", "Photosynthesis", "Transpiration"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "What is the type of Tomato fruit?",
+    "options": ["Cherry", "Berry", "Pome", "Drupe"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "For which one among the following diseases no vaccine is yet available?",
+    "options": ["Malaria", "Mumps", "Tetanus", "Measles"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is least infectious?",
+    "options": ["Conjunctivitis", "Tuberculosis", "Leprosy", "Hepatitis"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The compound used in anti malarial drug is",
+    "options": ["Aspirin", "Chloroquin", "Isoprene", "Neoprene"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which one of the following diseases is inheritable?",
+    "options": ["Colour blindness", "Malignancy", "Leukaemia", "Hepatitis"],
+    "answer_index": 1
+  }
+]

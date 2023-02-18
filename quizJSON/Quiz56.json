@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "What is the bright glow around the “head” of a comet called?",
+    "options": ["Coma", "Halo", "Crown", "Ring"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What’s another name for an adult male gorilla?",
+    "options": ["Ape-zilla", "Silverback", "Big bubba", "KingKong"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the new name of Abyssinia?",
+    "options": ["Thailand", "Zimbabwe", "Namibia", "Ethiopia"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Great Mosque of Cordoba is located in which country?",
+    "options": ["Argentina", "Spain", "Chile", "Colombia"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Name Batman’s crime-fighting partner?",
+    "options": ["John Blake", "Thomas", "Robin", "Harley"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In which of the following countries would you most likely not find a wild jaguar cub?",
+    "options": ["Damin", "Chile", "Colombia", "Brazil"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Virginia is a place in U.S.A. famous for growing",
+    "options": ["Tobacco", "Weed", "Cannabis", "None of the above"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the tallest volcano in the world?",
+    "options": [
+      "Kilauea,U.S",
+      "Etna,Italy",
+      "Mauna kea,U.S",
+      "Tambora,Indonesia"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of these foods is not thought to have been part of the first Thanksgiving?",
+    "options": ["Cranberries", "Pumpkin pie", "Deer", "Shellfish"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of the following parts of the sun is easily visible only during a total solar eclipse?",
+    "options": ["Corona", "Photosphere", "Sunspots", "Core"],
+    "answer_index": 1
+  }
+]

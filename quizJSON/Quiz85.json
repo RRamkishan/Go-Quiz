@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "According to legend, what animal did St. Patrick chase out of Ireland?",
+    "options": ["Snakes", "Horses", "Wolves", "Rats"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The outermost layer of the sun is called",
+    "options": [
+      "Radiative Zone",
+      "Corona",
+      "Chromosphere",
+      "Transition Region"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Okapis don’t do which of the following until they’re about one month old?",
+    "options": ["Open their eyes", "Eat", "Walk", "Poop"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Ozone layer prohibits",
+    "options": [
+      "Visible light",
+      "Ultraviolet radiation",
+      "X-rays and gamma rays",
+      "Infrared radiation"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "The filament of an electric bulb is made of",
+    "options": ["iron", "graphite", "tungsten", "nichrome"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Kangaroos and wallabies move in feeding groups called?",
+    "options": ["Joeys", "Mobs", "Herds", "Hops"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "The theory which advocates that living beings can arise only from other living beings is termed",
+    "options": ["Bio-genesis", "Abiogenesis", "Catastrophism", "Cosmozoic"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Iodine test is used to detect",
+    "options": ["Protein", "Cholesterol", "Carbohydrate", "Fat"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Lichens are the best indicator of",
+    "options": [
+      "Noise pollution",
+      "Air pollution",
+      "Sound pollution",
+      "Water pollution"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What’s the first thing a caterpillar usually eats after it’s born?",
+    "options": ["Its own eggshell", "Other bugs", "Grass", "Cheerios"],
+    "answer_index": 1
+  }
+]

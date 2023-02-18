@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What ancestor do all dog breeds have in common?",
+    "options": ["Wolf", "cat", "Ape", "Dinosaur"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The scarab was a sacred insect in ancient Egypt. What is a scarab?",
+    "options": ["A dragonfly", "A beetle", "A Cockroach", "A Wasp"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What does the Earth have that the moon does not?",
+    "options": ["A secret alien colony", "Rocks", "Water", "At atmosphere"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which country is known as the “Land of White Elephants”?",
+    "options": ["India", "Thailand", "England", "Singapore"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which big cat doesn’t have fully retractable claws?",
+    "options": ["Garfield", "Tiger", "Cheetah", "Lion"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In which of the following countries would you most likely not find a wild jaguar cub?",
+    "options": ["Mexico", "Chile", "Colombia", "Brazil"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "How many sides does a triangle have?",
+    "options": ["Three", "Two", "Five", "Six"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Two of the planets in our solar system begin with the letter M, can you name them?",
+    "options": [
+      "Uranus and venus",
+      "Neptune and Mars",
+      "Mars and Mercury",
+      "Venus and mars"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The dwarf lantern shark is about the size of which of the following?",
+    "options": [
+      "A school bus",
+      "A pencil",
+      "A paper clip",
+      "A basketball player"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the color of sunflowers?",
+    "options": ["Yellow", "Blue", "Green", "White"],
+    "answer_index": 1
+  }
+]

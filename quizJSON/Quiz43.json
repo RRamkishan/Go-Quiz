@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "Where do you go when you are sick?",
+    "options": ["Hospital", "Medical", "Bank", "Office"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Teotihuacan Pyramids is located in which country?",
+    "options": ["Agentina", "Mexico", "Laos", "Peru"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which country operationalized world’s largest radio telescope?",
+    "options": ["India", "Russia", "USA", "China"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What is the largest island in the UK?",
+    "options": [
+      "Dova Haw",
+      "Great Britain",
+      "Lewis with Harris",
+      "Isle of Skye"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which of the following animals is not nocturnal?",
+    "options": ["Tiger", "Leopard", "Sheep", "Skunk"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In 1898 inventor Nicola Tesla made a boat move without touching it. How did he do it?",
+    "options": [
+      "With magic",
+      "With radio waves",
+      "With a laser pointer",
+      "With hidden wires"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "How many teeth can a shark have?",
+    "options": ["1000", "100", "500", "320"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which is the largest freshwater lake in the USA?",
+    "options": [
+      "Lake Michigan",
+      "Lake Titicaca",
+      "Lake Superior",
+      "Lake Huron"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of these is not a continent?",
+    "options": ["Antarctica", "Alaska", "South America", "Africa"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "When a gas is turned into a liquid, the process is called",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer_index": 1
+  }
+]

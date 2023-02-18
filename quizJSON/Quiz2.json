@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Which country is also known as the 'Land of Thousand Lakes'",
+    "options": ["Finland", "Switzerland", "Norway", "Iceland"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which country is known as the 'Land of Thunderbolts'",
+    "options": ["China", "Bhutan", "Mongolia", "Thailand"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which country is known as the 'Land of White Elephant?",
+    "options": ["Malaysia", "Sri Lanka", "India", "Thailand"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which continent has the highest number of countries",
+    "options": ["Asia", "Africa", "North America", "Europe"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which one is the largest producer of tea in the World",
+    "options": ["India", "Kenya", "China", "Sri Lanka"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which country is the largest producer of coffee in the World",
+    "options": ["Vietnam", "Brazil", "Colombia", "Mexico"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "In which country, 'Suez Canal' is located",
+    "options": ["Egypt", "Iran", "Turkey", "UAE"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which two seas are joined by the Suez Canal",
+    "options": [
+      "Bering Sea and Red Sea",
+      "Baltic Sea and Libyan Sea",
+      "Mediterranean Sea and the Red Sea",
+      "None of the above"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Mount Etna, one of the most active volcano in the World is located in",
+    "options": ["Fiji", "Italy", "Japan", "Peru"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which country is known as the 'Battleground of Europe'",
+    "options": ["Belgium", "Ireland", "England", "French"],
+    "answer_index": 1
+  }
+]

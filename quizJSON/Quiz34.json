@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of the famous comet that can be seen from Earth about every 75 years?",
+    "options": ["Halley's comet", "Hale-Bopp", "Pluto", "Shoemaker-Levy 9"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "After a female emperor penguin lays her egg, what does her male partner do?",
+    "options": [
+      "Disappears",
+      "Cares for the egg",
+      "Guards the female",
+      "Gets a snack"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Ostriches cannot do which of the following?",
+    "options": ["Run", "Lay eggs", "Kink", "Fly"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "About how many hairs do most people lose every day?",
+    "options": ["50 strands", "75 strands", "10 strands", "25 strands"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "The most common eye color in the world is",
+    "options": ["Hazal", "Green", "Brown", "Blue"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "How many muscles do you use when you talk?",
+    "options": ["55", "72", "45", "87"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "How many breaths does the average person take each day?",
+    "options": ["25000", "5000", "50", "150"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "On land, the mythical Yeti is also known as the Abominable Snowman. What type of sea creature is also called Yeti?",
+    "options": [
+      "Yeti tube worm",
+      "Yeti sea snail",
+      "Yeti crab",
+      "Yeti sea monkey"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "For which illness do elders of the YK region recommend drinking the juice of cloud berries?",
+    "options": ["Aches and pains", "Colds", "Sore throat", "Stomach ache"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "If your digestive tract were stretched out, how long would it be?",
+    "options": [
+      "As long as two cars",
+      "As long as a banana",
+      "As long as a baseball bat",
+      "As long as a train"
+    ],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "question": "In 1924 the first winter Olympics was held in ?",
+    "options": ["France", "Canada", "Austria", "Italy"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Pullela Gopichand is associated with ?",
+    "options": ["Hockey", "Badminton", "polo", "Cricket"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What does the acronym CTBT stand for?  ",
+    "options": [
+      "Continue Test Based Treatment",
+      "Comprehensive Test Ban Treaty",
+      "Commercial Test Based Traiff",
+      "Continued Test Ban Treaty"
+    ],
+
+    "answer_index": 2
+  },
+  {
+    "id": 4,
+    "question": "2010 World Cup football tournament was held in?",
+    "options": ["Austria", "South Africa", "Turin", "Germany"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Mahesh Bhupathi is associated with ?",
+    "options": ["Cricket", "Chess", "Lawn Tennis", "Table Tennis"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Ronaldo is associated with ?",
+    "options": ["Tennis", "Football", "Cricket", "Hockey"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "World's most ancient game is ?",
+    "options": ["Wrestling", "Swimming", "Running", "Boxing"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "The game of hockey originated in ?",
+    "options": ["England", "Germany", "France", "Canada"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "One byte is equivalent to ?",
+    "options": ["12 bits", "8 bits", "4 bits", "32 bits"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which place is called land of midnight sun?",
+    "options": ["Norway", "Taiwan", "Iceland", "Germany"],
+    "answer_index": 1
+  }
+]

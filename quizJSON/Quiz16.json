@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Where the headquarters of World Wide Fund for Nature (WWF)",
+    "options": ["Switzerland", "Germany", "USA", "Canada"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The World famous monument 'Colosseum' is located in",
+    "options": ["Spain", "Italy", "Austria", "France"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which country is the largest producer of cotton",
+    "options": ["Brazil", "Pakistan", "India", "China"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "The best milch breed in the world is",
+    "options": ["Deoni", "Holstein-Friesian", "Sindhi", "Chittagong"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which of the following country has the longest overland tunnel",
+    "options": ["Spain", "France", "Switzerland", "Germany"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Headquarters of European Union is situated at",
+    "options": ["Munich", "Brussels", "Paris", "Milan"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which city is also known as the 'City of Canals'",
+    "options": ["Venice", "Athens", "Rome", "Amsterdam"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which of the cities shall earn the distinction of being the first Asian city to host the Summer Olympics twice (1964, 2020)",
+    "options": ["Bangkok", "Seoul", "Tokyo", "Hongkong"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Which was the first country to introduce VAT",
+    "options": ["England", "France", "USA", "Japan"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which one is the most saline water body in the world",
+    "options": ["Don Juan Pond", "Lake Assal", "Gaet'ale Pond", "Lake Urmia"],
+    "answer_index": 1
+  }
+]

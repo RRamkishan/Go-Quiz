@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "The Lhasa apso was originally bred to be a dog with a certain job. What was the job?",
+    "options": ["Guard dog", "Show dog", "Children's pet", "Janitor dog"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The Capital of Tanzania is",
+    "options": ["Kampala", "Dar- es- Salaam", "Lusaka", "Nairobi"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What does the maglev train in Japan rely on to hover above the tracks as it travels?",
+    "options": ["Magic", "Batteries", "Steam", "Magnets"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+    "options": ["Asia", "Africa", "Europe", "Australia"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "MS-Word is an example of",
+    "options": [
+      "System software",
+      "Complier",
+      "Application software",
+      "Operating system"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "In which of the following countries would you most likely not find a wild jaguar cub?",
+    "options": [
+      "An operating system",
+      "A processing device",
+      "colombia",
+      "An input device"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What about Earth allows it to maintain bodies of water?",
+    "options": ["Moderate tempatures", "Comet crashes", "Tides", "Mountains"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which dino name means 'small thief'?",
+    "options": ["Troodon", "Utahraptor", "Microraptor", "Lguanodon"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What gemstone has been discovered on Mars?",
+    "options": ["Emerald", "Opal", "Diamond", "Ruby"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What kind of tree do acorns come from?",
+    "options": ["Oak", "Red Oak", "seed", "Acorns nuts"],
+    "answer_index": 1
+  }
+]

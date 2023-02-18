@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Where the headquarters of the United States Department of Defense  is located",
+    "options": ["Virginia", "Ohio", "Washington", "Arizona"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which island was previously known as 'Formosa'",
+    "options": ["Sri Lanka", "Taiwan", "Bali", "Hong Kong"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "International Woman's Day is celebrated on",
+    "options": ["2nd January", "5th April", "15th September", "8th March"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "'Legion of Honour' is the highest civilian order of which country",
+    "options": ["America", "French", "England", "Canada"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "'Presidential Medal of Freedom' is the highest civilian order of which country",
+    "options": ["Italy", "England", "America", "Sweden"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "All Nobel Prizes except the Peace Prize is given at the city",
+    "options": ["Oslo", "Stockholm", "Bern", "Zurich"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Nobel Peace Prize is awarded in the city",
+    "options": ["Oslo", "Berlin", "Lisbon", "Bern"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "How many countries are border with the Black sea",
+    "options": ["4", "9", "6", "5"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "'Sofia' is the capital city of which country",
+    "options": ["Hungary", "Bulgaria", "Romania", "Poland"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "First American President to win a Nobel Peace Prize",
+    "options": [
+      "Theodore Roosevelt",
+      "Woodrow Wilson",
+      "Barack Obama",
+      "Jimmy CarterSSs"
+    ],
+    "answer_index": 1
+  }
+]

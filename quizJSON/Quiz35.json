@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which animal weighs about the same as ENIAC, the first mechanical computer?",
+    "options": [
+      "A humpback whale",
+      "An African elephant",
+      "A grizzly bear",
+      "A walrus"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which part of your body do you use to see?",
+    "options": ["Ears", "Eyes", "Tongue", "Nose"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which technology didn’t exist when Walt Disney World opened its doors to the public in 1971?",
+    "options": ["Radio", "Airplane", "Tv", "Cell phone"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which of these is a nickname for Ireland?",
+    "options": [
+      "Island of Dolphins",
+      "The Emerald isle",
+      "Angel island",
+      "Snake-free island"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Monica Seles is associated with which of the following games",
+    "options": ["Athletics", "Basketball", "Tennis", "Badminton"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which of these big cats is the fastest land animal?",
+    "options": ["Puma", "Cheetah", "Lion", "Leopard"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following countries is not a member of the Nuclear Suppliers Group(NSG)",
+    "options": ["Iran", "Russia", "USA", "France"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "How many deserts are there in Africa?",
+    "options": ["Nine", "Four", "Three", "one"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What will you get if you dont wear green on St. Patricks Day in the United States?",
+    "options": ["A prize", "A pinch", "A kiss", "No homework"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What color was originally associated with St. Patrick?",
+    "options": ["Blue", "Black", "Red", "White"],
+    "answer_index": 1
+  }
+]

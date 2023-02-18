@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "How many continents do we have?",
+    "options": ["Seven", "Six", "Five", "Four"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which of the following animals has a comparatively longer intestine?",
+    "options": ["Tiger", "Rabbit", "Dog", "Fox"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Most birds throw up food to feed their chicks. What is this process called?",
+    "options": [
+      "Disgust-o-snack",
+      "A backward gulp",
+      "Bird barf",
+      "Regurgitation"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "In which year of First World War Germany declared war on Russia and France?",
+    "options": ["Mineral", "Fruits", "Vegetables", "Animals"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "What year were bonobos officially recognized as a species?",
+    "options": ["1909", "1927", "1914", "1915"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "The Chihuahua breed is native to which country?",
+    "options": ["Bolivia", "Mexico", "Japan", "France"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following animals is the wombat’s closest relative?",
+    "options": ["Koala", "Wallaby", "Emu", "Kangaroo"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which of the following International Tennis Tournaments is held on grass court?",
+    "options": ["US open", "French Open", "Wimbledon", "Australian Open"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Whats the most commonly broken bone in the human body?",
+    "options": ["5 million", "2 million", "4 million", "6million"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What was the punishment for killing a cat in ancient Egypt?",
+    "options": [
+      "Death",
+      "Nine lashes with a cattail",
+      "Nine days in the stockade",
+      "Nine year of exile"
+    ],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Stars and Stripes is the nickname of the flag of which country?",
+    "options": ["United States of America", "State flag", "Usa flag", "India"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "ASEAN is headquartered at….",
+    "options": ["Male", "Jakarta", "Kuala Lumpur", "Kathmandu"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What’s the main part of a chimpanzee’s diet?",
+    "options": ["Leaves", "Hippos", "Insects", "Fruits"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which of these is said to be the most powerful communication tool ever invented?",
+    "options": ["Pencil", "Internet", "Telephone", "Telegraph"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which mineral was once considered so valuable that ancient Roman soldiers were partially paid with it?",
+    "options": ["Magnesium", "Quartz", "Salt", "Sulfur"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which is the oldest baseball stadium in use in Major League Baseball?",
+    "options": [
+      "Wrigley Field",
+      "Fenway park",
+      "Yankee stadium",
+      "Whoville part"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Banaue Rice Terraces in Ifugao is located in which country?",
+    "options": ["Philippines", "India", "Brunei", "Burma"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Day of the Dead, or Dia de los Muertos, is a holiday celebrated near Halloween in which country?",
+    "options": ["Finland", "Portugal", "Mexico", "Ireland"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Non stick cooking utensils are coated with",
+    "options": ["polystyrene", "Teflon", "PVC", "black paint"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "In the nursery rhyme, who sat on a wall before having a great fall?",
+    "options": [
+      "Humpty Dumpty",
+      "Georgie Porgie",
+      "Lewis Carroll",
+      "Humpty nursery"
+    ],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "The headquarters of the European Parliament is located in",
+    "options": ["Brussels", "Copenhagen", "London", "Paris"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "In which continent, the country Eritrea is located",
+    "options": ["South America", "Africa", "Asia", "Europe"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which city is also known as the fruit garden of Pakistan",
+    "options": ["Lahore", "Faisalabad", "Karachi", "Quetta"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Kiev is the capital city of",
+    "options": ["Romania", "Ukraine", "Kazakhstan", "Turkey"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Sultan Ahmed Mosque is located in",
+    "options": ["Mecca", "Dubai", "Istanbul", "Karachi"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which one is the most populous city in South America",
+    "options": ["Brasília", "Sao Paulo", "Santiago", "Lima"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Iguazu Falls is located between which two countries",
+    "options": [
+      "Brazil and Argentina",
+      "Colombia and Venezuela",
+      "Bolavia and Chile",
+      "Brazil and Bolivia"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "La Paz is the capital city of",
+    "options": ["Venezuela", "Brazil", "Bolavia", "Chile"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The hot,dusty local wind of the Sahara Desert is known as",
+    "options": ["Mistral", "Sirocco", "Harmattan", "Chinook"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "What is willy-willy",
+    "options": [
+      "A tropical cyclone of north-west Australia",
+      "A type of computer virus",
+      "A name of a missile",
+      "A kind of sharp-needle"
+    ],
+    "answer_index": 1
+  }
+]

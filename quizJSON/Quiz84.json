@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "What unusual thing can the bull shark do?",
+    "options": [
+      "Survive in freshwater",
+      "Survive out of water",
+      "Eat seaweed",
+      "Talk"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The head quarters of world trade organization is in",
+    "options": ["The Hague", "Geneva", "Montreal", "Seattle"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Which sea creature has three hearts?",
+    "options": ["Fish", "Blue Whale", "Whale", "Octopus"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Who is the fastest man in the world?",
+    "options": ["Tyson gay", "Usain Bolt", "Justin gatlin", "Yohan blake"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Maastricht Treaty is related to to….",
+    "options": [
+      "Environment pollution",
+      "Biological weapons",
+      "European unification",
+      "Landmines"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which one among the following radiations carries maximum energy?",
+    "options": ["Infra-red rays", "Gamma rays", "Ultraviolet rays", "X- rays"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Bomber worms have a unique defense system. What do they release when they’re in danger?",
+    "options": [
+      "Green,glowing sacs",
+      "Black ink",
+      "Sharp spikes",
+      "Slimy mucus balls"
+    ],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which is not the name of an English food?",
+    "options": [
+      "parson's nose",
+      "candyfloss",
+      "Potter pie",
+      "Bubble and squeak"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What color does yellow and green make?",
+    "options": ["Tangerine", "Lime", "Ocean mist", "Maroon"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Whats the name of the traditional instrument played by the Aboriginal people of Australia?",
+    "options": ["Didgeridoo", "Singing stick", "Flutaphone", "Supertube"],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which one is the 50th State of United State of America",
+    "options": ["Hawaii", "Utah", "Arizona", "Alaska"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Mediterranean Sea is connected to which ocean",
+    "options": ["Southern", "Atlantic", "Pacific", "Indian"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "How many countries have a coastline on the Mediterranean Sea",
+    "options": ["29", "26", "23", "22"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which European country is surrounded by most number of neighbouring countries",
+    "options": ["Australia", "Germany", "Russia", "Denmark"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which one is the first country to allow women to vote",
+    "options": ["Australia", "America", "New Zealand", "Canada"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Transylvania is a part of which country",
+    "options": ["Poland", "Romania", "Hungary", "Australia"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which one is the first country to make broadband a legal right for every citizen",
+    "options": ["Finland", "Denmark", "China", "England"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "What country calls itself Nippon",
+    "options": ["South Korea", "North Korea", "Japan", "Thailand"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "What country was known as Rhodesia",
+    "options": ["Sudan", "Zimbabwe", "Zambia", "Italy"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Total number of countries in the group of the Commonwealth of Nations",
+    "options": ["53", "55", "56", "58"],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Warsaw is the capital of",
+    "options": ["Poland", "Lithuania", "Ukraine", "Cezch Republic"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Total number of members in European Union is",
+    "options": ["30", "28", "29", "27"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "The Council of the European Union is located in",
+    "options": ["England", "Norway", "Italy", "Belgium"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which one is not a member of European Union",
+    "options": ["Luxembourg", "Switzerland", "Netherlands", "Malta"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "The United Nation General Assembly meets regularly",
+    "options": [
+      "Twice a year",
+      "After 6 month",
+      "Once in a Year",
+      "Once in 2 Years"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "The Amnesty International was established in the year",
+    "options": ["1964", "1961", "1962", "1963"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Kimono is a dress style of which Asian Country",
+    "options": ["Japan", "Korea", "China", "Laos"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Rand is the currency of",
+    "options": ["Namibia", "Romania", "South Africa", "Iran"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "Earth day is celebrated on",
+    "options": ["17-Sep", "22-Apr", "4-Apr", "16-Feb"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "'Krone' is the currency of which country",
+    "options": ["Denmark", "Hungary", "Greece", "Finland"],
+    "answer_index": 1
+  }
+]

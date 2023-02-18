@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "In which article of the United Nations Charter, the term NGO is used?",
+    "options": ["Article 71", "Article 81", "Article 69", "Article 82"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Soccer, rugby, cricket, boxing, and golf were all invented in which country?",
+    "options": ["united states", "United kingdom", "china", "Argentiina"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the national flower of Wales?",
+    "options": ["Lily", "Jasmine", "Rose", "Daffodil"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Fastest Shorthand Writer was",
+    "options": ["Khudada Khan", "Dr. G. D. Bist", "J.R.D. Tata", "J.M. Tagore"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which volcano buried the Roman city of Pompeii in A.D. 79?",
+    "options": ["Mount st.Helens", "Tambora", "Vesuvius", "Krakatoa"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "This planet is named after the Roman god Mars. What is he the god of?",
+    "options": ["Agriculture", "War", "Love", "Fire"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "The man who is specialist in wine making is called as ?",
+    "options": ["Oenologist", "Wenologist", "Grapologist", "None"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which UN Secretary General was killed in an air crash?",
+    "options": [
+      "Kurt Waldheim",
+      "Trigvelli",
+      "Dag Hammershold",
+      "Javier Perez the Cuyar"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The tube that carries urine from the kidney to the urinary bladder.",
+    "options": ["Sphincter ", " Urethra", "Aorta ", "Sciatica"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "A bump or mound of hard snow on a ski slope is known as a",
+    "options": ["Mogul", "Spike", "Igloo", "Glacier"],
+    "answer_index": 1
+  }
+]

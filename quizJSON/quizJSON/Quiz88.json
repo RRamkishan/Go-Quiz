@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "How long are professional Golf Tour Players allotted per shot?",
+    "options": ["45 seconds", "36 seconds", "41 seconds", "22 seconds"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "What kind of animal is a dhole ?",
+    "options": ["wild cat", "wild dog", "wild buffalo", "wild ass"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "which is the longest continually run sports event in the U.S.since 1875?",
+    "options": ["World Series", "Super Bowl", "U.S.open", "Kenrucky Derby"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What is the name of molten rock after a volcanic eruption?",
+    "options": ["Cinder cone", "Lava", "Mount Vesurvius", "Pompeii"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "french open is associated with (which of the following sporting events) ?",
+    "options": ["Swimming", "Golf", "Tennis", "Rugby"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Double fault is associated with which game",
+    "options": ["Golf", "Tennis", "Football", "Chess"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "Which part of the human eye controls the amount of light passes through the pupil?",
+    "options": ["The iris", "The Lens", "The Pupil", "The Retina"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "When the first dinosaur bones were discovered in China, people thought they were:",
+    "options": ["Panda bones", "Tiger bones", "Dragan bones", "Chicken bones"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The famous Eiffel Tower is in",
+    "options": ["France", "Paris", "Germany", "Italy"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Beagles belong to which group of dogs?",
+    "options": ["Hounds", "Pointers", "Retrievers", "Mutts"],
+    "answer_index": 1
+  }
+]

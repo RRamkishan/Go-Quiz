@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which country is also known as the 'Land of Tulips'",
+    "options": ["Netherlands", "Greece", "Italy", "Switzerland"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Which one is the longest continental mountain range in the world",
+    "options": ["Himalaya", "Andes", "Rocky Mountains", "Ural Mountains"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "How many countries were participated as founding member of UNO",
+    "options": ["60", "56", "53", "51"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Which one is the largest tropical rain forest in the world",
+    "options": [
+      "Daintree Rain Forest",
+      "Amazon",
+      "Bosawas",
+      "SouthEast Asian Rain Forest"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which river is flowing through Grand Canyon in Arizona, USA",
+    "options": [
+      "Missouri River",
+      "Yukon River",
+      "Colorado River",
+      "Mississippi River"
+    ],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "Which country has the highest airport in the world?",
+    "options": ["China", "United States", "Brazil, Leh", "Mexico"],
+    "answer_index": 1
+  },
+  {
+    "id": 7,
+    "question": "In which year Hong Kong become a part of China after British Rule",
+    "options": ["1997", "1998", "1999", "1995"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Which one is the biggest island in the World",
+    "options": ["Sumatra", "Finland", "Greenland", "Borneo"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The world's longest straight road without any corners is located in",
+    "options": ["USA", "Saudi Arabia", "China", "Australia"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Which mountain is known as the 'Roof of the World'",
+    "options": ["Pamir", "Karakoram", "Karakoram", "Andes"],
+    "answer_index": 1
+  }
+]

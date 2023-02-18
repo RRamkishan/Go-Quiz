@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "How does erosion occur on the moon?",
+    "options": ["It does't", "Wind", "Water", "Earthquake"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "The Ozone Layer restricts from?",
+    "options": [
+      "Infrared Rays",
+      "Ultraviolet Radiation",
+      "X-Rays and Gamma Rays",
+      "Radio waves"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Name the plant important in sericulture ?",
+    "options": ["Pea", "Legumes", "Cassia", "Mulberry"],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "Whats this cat trying to tell us?",
+    "options": ["I Want to sleep!", "I'm scared", "I'm mad", "I want to play!"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Which of the following sport is Yuzvendra Chahal related to?",
+    "options": ["Tennis", "Cricket", "Shooting", "Hockey"],
+    "answer_index": 2
+  },
+  {
+    "id": 6,
+    "question": "Where is ‘Great Bear Lake’ found in the world?",
+    "options": ["Kabul", "Canada", "Seoul", "Perish"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the imaginary line called that connects the north and south pole?",
+    "options": ["Prime Meridian", "Globe", "Earth", "Arctic"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Who is the father of geometry?",
+    "options": ["Kepler", "Aristotle", "Euclid", "Pythagoras"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The blue colour of the clear sky is due to",
+    "options": [
+      "Reflection of light",
+      "Diffraction of light",
+      "Dispersion of light",
+      "Refraction of light"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "Permanent hardness of water can be removed by adding",
+    "options": [
+      "washing soda",
+      "potassium permanganate",
+      "bleaching powder",
+      "chlorine"
+    ],
+    "answer_index": 1
+  }
+]

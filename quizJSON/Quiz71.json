@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "How many bytes are 1 gigabyte (GB)?",
+    "options": ["1024 MB", "1024 GB", "1024 TB", "1024 KB"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "How many bytes are 1 megabyte (MB)?",
+    "options": ["1024 TB", "1024 KB", "1024 MB", "1024 GB"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "How many bytes are 1 kilobyte (KB)?",
+    "options": [
+      "1024 terabytes",
+      "1024 gigabytes",
+      "1024 megabytes",
+      "1024 bytes"
+    ],
+    "answer_index": 4
+  },
+  {
+    "id": 4,
+    "question": "What is the full form of CPU?",
+    "options": [
+      "Central Processing Union",
+      "Central Processing Unit",
+      "Central Problem Unit",
+      "None of these"
+    ],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "When did the great revolution in computer field come?",
+    "options": ["1965", "1963", "1960", "1961"],
+    "answer_index": 3
+  },
+  {
+    "id": 6,
+    "question": "According to Buddhist traditions, who was Charioteer of Buddha?",
+    "options": ["Chunda Hide", "Channa", "Kanthaka", "Devdatta"],
+    "answer_index": 2
+  },
+  {
+    "id": 7,
+    "question": "A number which, when increased by 123% becomes 3345. The number is—",
+    "options": ["1500", "1775", "1250", "1550"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Find the least number exactly divisible by 12,15,20,27 ?",
+    "options": ["630", "230", "540", "450"],
+    "answer_index": 3
+  },
+  {
+    "id": 9,
+    "question": "The LCM of two numbers is 45 times their HCF. If one of the numbers is 125 and sum of HCF and LCM is 1150. The other numbers is-",
+    "options": ["250", "225", "235", "240"],
+    "answer_index": 2
+  },
+  {
+    "id": 10,
+    "question": "The average marks of a student in four subjects is 75. If the student obtained 80 marks in the 5th subject then the new average is ?",
+    "options": ["76", "78", "80", "88"],
+    "answer_index": 1
+  }
+]
